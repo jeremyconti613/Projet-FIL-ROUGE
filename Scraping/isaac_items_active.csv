@@ -1,0 +1,172 @@
+Name,id,Description
+A Pony,130,"Passively grants flight and increases speed to 1.5. Upon use, Isaac charges in the direction the pony is facing, giving invulnerability during the charge and dealing damage to enemies hit."
+Anarchist Cookbook,65,Spawns six Troll Bombs around the room .
+Best Friend,136,Spawns a decoy Isaac that explodes after 5 seconds. Enemies will always target the decoy and ignore Isaac.
+Blank Card,286,Copies the effect of the card or rune currently held by Isaac. Copies the effect of the card currently held by Isaac. The charge time is based on the power of the card.
+Blood Rights,186,Takes a full heart of health and deals 40 damage to all enemies in the room . Repeated uses in the same room only take half a heart.
+Bob's Rotten Head,42,Isaac holds a poison Bomb which can be thrown in the cardinal directions and explodes on impact.
+Book of Revelations,78,"Increases the chance of a Devil Room / Angel Room appearing while held. Upon use, gives one Soul Heart , and replaces the boss of the current floor with a Harbinger if possible."
+Book of Secrets,287,"Gives the effect of Treasure Map , The Compass , or Blue Map for the duration of the current floor . If all effects are active, X-Ray Vision is provided for the floor instead. Highlights any Tinted Rocks and rocks with Crawl Space in the room."
+Book of Shadows,58,"Creates a protective shield , nullifying all types of damage in the current room for 10 seconds."
+Box of Spiders,288,Spawns 1-4 Blue Spiders that deal 2.5× Isaac's damage to enemies. Spawns 4-8 Blue Spiders that deal 2× Isaac's damage to enemies.
+Breath of Life,326,"Grants a brief moment of invincibility when the charge bar hits zero. Isaac begins taking damage if the item is held any longer. Isaac creates beams of light when touching enemies while invulnerable, and creates a powerful 4-way beam if blocking damage exactly as the invincibility starts."
+Butter Bean,294,Isaac farts and knocks back nearby enemies and projectiles. Enemies pushed into walls or obstacles take 12 damage.
+Converter,296,Converts two Soul Hearts or Black Hearts into one filled Red Heart Container. Converts one Soul Heart or Black Heart into one filled Red Heart Container.
+Crack the Sky,160,"Summons 5 beams of light in random locations on the ground, dealing large amounts of damage to any enemies that touch them."
+Crystal Ball,158,"Reveals the map (except the Super Secret Room and Ultra Secret Room ) and drops a Soul Heart or random card/rune . While held, increases the chance of finding a Planetarium ."
+D10,285,Re-rolls all monsters in the room . Replaces all monsters in the room with weaker monsters.
+D100,283,"Combines the effects of D4 , The D6 , and D20 . Combines the effects of D1 , D4 , The D6 , D7 , D8 , D10 , D12 , and D20 ."
+D20,166,Rerolls all pickups in the current room .
+D4,284,Rerolls all of Isaac's passive items .
+Dad's Key,175,"Opens all doors in the current room in almost all circumstances, including doors which require a Key to open, entrances to Secret Rooms , and the door to Mega Satan ."
+Dead Sea Scrolls,124,Triggers the effect of a random activated item from a list of possible options (not every activated item is included).
+Deck of Cards,85,Gives Isaac a random card .
+Doctor's Remote,47,"Creates a crosshair on the ground that can be aimed with tear controls. A missile strikes the spot after 2 seconds, creating a heavy damage explosion."
+Flush!,291,Turns all non-boss monsters in the room into Poop . Instantly kills poop-themed bosses. Floods the current room.
+Forget Me Now,127,"Restarts the current floor with a new layout . Isaac loses Forget Me Now, but keeps other items and consumables picked up on the original floor."
+Guppy's Head,145,Spawns 2-4 friendly Blue Flies that damage enemies.
+Guppy's Paw,133,Converts one Red Heart Container into three Soul Hearts .
+Head of Krampus,293,"Fires a powerful Brimstone beam in four cardinal directions, much like Krampus shoots. Fires a powerful Brimstone beam in four cardinal directions, much like Krampus shoots, with a 50% chance to rotate all beams around Isaac 90 degrees."
+How to Jump,282,"Isaac jumps in the direction he is currently moving, allowing travel over obstacles and enemies ."
+Isaac's Tears,323,"Fires 8 tears around Isaac, which retain the damage , range , shot speed , and special tear effects of his tears. Each tear shot by Isaac increases item charge by one. Tears from this item have a +5 flat damage bonus."
+IV Bag,135,"Damages Isaac and spawns a random amount of coins , similar to a Blood Donation Machine ."
+Kamikaze!,40,"Creates an explosion around Isaac, damaging him and nearby enemies as well as destroying obstacles ."
+Lemon Mishap,56,"Creates a tiny pool of yellow creep , damaging enemies that cross it."
+Magic Fingers,295,Uses 1 Penny to deal damage to all enemies in the room .
+Mom's Bottle of Pills,102,Gives Isaac a random pill .
+Mom's Bra,39,Petrifies all enemies in the current room for 4 seconds.
+Mom's Pad,41,Inflicts fear to all enemies in the room for 4 seconds. Spawns a blue fly .
+Monster Manual,123,Spawns a familiar from a specific selection for the current room . Spawns a familiar from a specific selection for the current floor .
+Monstro's Tooth,86,"A friendly Monstro jumps on a random enemy, dealing 120 area damage. Targets Isaac if used in a room without enemies."
+Mr. Boom,37,Places a Mr. Mega Bomb that deals 110 damage. Places a Mr. Mega Bomb that deals 185 damage.
+My Little Unicorn,77,"Gives invulnerability and +0.28 speed for six seconds, removing the ability to shoot tears and replacing it with the ability to deal contact damage to enemies."
+Notched Axe,147,"Isaac destroys obstacles and opens Secret Rooms by walking into them, but cannot shoot or pick up items until it's cancelled. Toggles between tears and the pickaxe, which can be swung to attack and break obstacles . Using it depletes the charge, and it can't be used until next floor once the charge runs out."
+Pandora's Box,297,Spawns specific pickups or items depending on the floor it is used on. Disappears after use.
+Portable Slot,177,"Consumes 1 Penny and has a chance to drop a random pickup , like a Slot Machine ."
+Prayer Card,146,Gives Isaac an Eternal Heart .
+Razor Blade,126,Takes one Heart of health and grants +1.2 damage for the current room . Repeated uses in the same room only take half a heart.
+Red Candle,289,"Throws out a flame that damages everything in its path, diminishing in size as it hits enemies or blocks shots."
+Remote Detonator,137,Bombs placed by Isaac only explode when Remote Detonator is used. Gives 5 bombs.
+Satanic Bible,292,Gives one Black Heart . Replaces the boss room item on the current floor with a Devil Deal .
+Scissors,325,Turns Isaac's head into a stationary familiar for the current room which fires tears automatically. Isaac's body also shoots a controllable fountain of blood shots for the room.
+Shoop da Whoop!,49,Fires a laser from Isaac's mouth that deals twice Isaac's tear damage .
+Spider Butt,171,Deals 10 damage to all enemies in the room and slows them for 4 seconds. Enemies killed by Spider Butt spawn Blue Spiders .
+Tammy's Head,38,"Shoots 10 tears in a circle around Isaac, which retain the damage , range , shot speed , and special effects (such as poison ) of Isaac's tears. Tears from this item have a +25 flat damage bonus."
+Telepathy For Dummies,192,Gives homing tears for the current room. Also gives +3 range .
+Teleport!,44,Teleports Isaac to a random room on the current floor .
+The Bean,111,"Isaac farts, poisoning any enemy in close range."
+The Bible,33,"Grants flight for the current room . Instantly kills Mom , Mom's Heart , and It Lives when activated, but kills Isaac when used on Satan ."
+The Book of Belial,34,+2 damage for the current room . Passively guarantees a Devil Room or Angel Room will appear while held. +2 damage for the current room . Passively increases the chance of finding a Devil Room or Angel Room while held.
+The Book of Sin,97,"Spawns a random coin , heart , bomb , key , battery , pill or card near Isaac."
+The Boomerang,338,"Throws a boomerang which retrieves pickups , as well as damages and petrifies enemies hit for 2 seconds."
+The Candle,164,"Throws out a flame that damages everything in its path, diminishing in size as it travels."
+The D6,105,"Re-rolls all items in the current room into other items, depending on the current room's Item Pool ."
+The Gamekid,93,"Turns Isaac into a Pac-Man -like creature for 6.5 seconds, granting invulnerability , inflicting fear on all enemies, and has a chance of replenishing a Half Red Heart every time an enemy is killed."
+The Hourglass,66,All enemies in the room are slowed for 8 seconds.
+The Jar,290,"When at full health , up to 4 extra Red Hearts can be stored in The Jar. Activating drops the stored hearts on the ground."
+The Nail,83,"Gives one Soul Heart . For the current room; +0.7 damage , -0.18 speed , Isaac breaks rocks and deals contact damage. Gives half a Black Heart . For the current room; +2 damage , -0.18 speed , Isaac breaks rocks and deals contact damage."
+The Necronomicon,35,Deals 40 damage to every enemy in the room .
+The Pinking Shears,107,"Separates Isaac's head from his body for the current room , granting flight and turning the body into a familiar that chases enemies."
+The Poop,36,Spawns a pile of Poop where Isaac is standing and knocks back nearby enemies. May yield pickups like regular poop.
+Undefined,324,"Teleports Isaac to the Secret Room , Super Secret Room , Treasure Room , or I AM ERROR ."
+Unicorn Stump,298,"Gives invulnerability and increased speed for six seconds, but removes the ability to shoot tears."
+We Need To Go Deeper!,84,"Creates a trapdoor to go to the next floor . Once per floor, using it on tiles with special graphics will instead create a Crawl Space ."
+White Pony,181,"Passively grants flight and increases speed to 1.5. Upon use, Isaac charges in the direction the pony is facing, giving invulnerability during the charge while also creating damaging beams of light."
+Yum Heart,45,Restores one full Red Heart .
+Box of Friends,357,"Duplicates all of Isaac's familiars for the current room. If Isaac has no familiars, spawns a Demon Baby for the room instead."
+D12,386,Re-rolls all Rocks and Metal Blocks in the current room into other random obstacles. Re-rolls most types of Obstacles in the current room into other random obstacles.
+D7,437,"Restarts the current room and brings back all enemies , allowing more rewards to be acquired by completing the room."
+D8,406,"Re-rolls Isaac's damage , tears , range , and speed ."
+Diplopia,347,Duplicates all pickups and item pedestals in the room.
+Friendly Ball,382,"Throwing the ball at a monster instantly kills and captures it. The captured enemy can later be released and will be friendly , fighting for Isaac and persisting between rooms."
+Glass Cannon,352,"Fires a high-damage piercing spectral tear, but lowers Isaac's health to half a heart. Fires a high-damage piercing spectral tear. If Isaac takes damage while holding this, he takes extra damage and it becomes Broken Glass Cannon ."
+Glowing Hourglass,422,"Rewinds time, putting Isaac back in the previous room and undoing anything that happened in the current room. Can only be used three times per floor, after which it functions like The Hourglass until the next floor."
+Jar of Flies,434,"Killing an enemy adds a fly to the jar, up to a maximum of 20. On use, releases Blue Flies equal to the number of flies in the jar."
+Kidney Bean,421,"Isaac farts, charming all nearby enemies."
+Mega Bean,351,"Petrifies all enemies in the current room for about 1.5 seconds, poisons any enemies near Isaac, and sends a rock wave across the room in the direction Isaac is facing."
+Mega Blast,441,"Isaac fires a giant laser for approximately 15 seconds. This laser deals massive damage, pushes Isaac backwards, and persists between rooms and floors ."
+Mine Crafter,427,"Places a Movable TNT barrel that can be pushed and used to destroy rocks or damage enemies. If used again in the same room while the previous TNT barrel is still intact, remotely detonates the TNT."
+Mom's Box,439,"Increases luck by 1 and doubles the effects of trinkets while held. When used, drops a random trinket on the ground."
+Placebo,348,Has the same effect as the Pill currently held by Isaac. The charge time is based on the power of the pill.
+Tear Detonator,383,"Splits all of Isaac's tears that are currently in the air into 6 tears that fire in all directions, which retain their damage and shot speed ."
+Teleport 2.0,419,"Teleports Isaac to a room that has not been explored yet. Normal rooms are prioritized over special rooms, and common special rooms take priority over rarer ones."
+Ventricle Razor,396,"Creates up to two portals that remain even if Isaac leaves the room. Upon entering a portal, Isaac is teleported to the other portal."
+Wooden Nickel,349,"Has a roughly 50% chance to drop a penny, nickel or dime , and a roughly 50% chance to do nothing."
+Black Hole,512,Throws a black hole on the ground which sucks in and damages enemies and destroys nearby obstacles.
+Book of the Dead,545,"Creates a friendly Bony , Black Bony , or an orbital bone for each enemy killed in the current room. Creates a friendly Bony , Black Bony , Bone Fly , Revenant , or an orbital bone for each enemy killed in the current room."
+Broken Shovel,550,"While held, causes Mom to continuously attempt to stomp on Isaac. Activating makes her stop for the current room or wave. One of two parts necessary to create Mom's Shovel ."
+Brown Nugget,504,Spawns a stationary fly turret that lasts for the current room and fires tears at nearby enemies.
+Clicker,482,Transforms Isaac into a random character and removes the last item collected.
+Compost,480,"Doubles Isaac's Blue Flies and Blue Spiders , or spawns one if Isaac has none. Converts pickups in the current room into Blue Flies or Blue Spiders."
+Coupon,521,"While held, guarantees one item in every Shop will be on sale. On use, makes a random item in the current room free."
+Crooked Penny,485,"Spawns a penny and has a 50% chance to double all items and pickups in the room. If the effect fails, the items and pickups disappear."
+D infinity,489,"Grants a random die item that changes each use. Acts as any die item, and can by cycled by pressing the drop key."
+D1,476,"Duplicates a random pickup in the room. The new pickup may be different than the original (i.e. a different card, etc)."
+Dataminer,481,"Displaces enemy sprites for the current room, randomly increases one stat and decreases another."
+Delirious,510,Spawns Delirium as a random friendly boss that fights for Isaac.
+Dull Razor,486,"Hurts Isaac without depleting health, activating any items that trigger upon taking damage."
+Eden's Soul,490,Spawns two item pedestals then is consumed. Begins with no charges.
+Mama Mega!,483,Damages all enemies and destroys all obstacles . The effect occurs every time a new room is entered for the rest of the floor. Opens the doors to the floor's Secret Rooms and Super Secret Rooms .
+Metronome,488,Grants a random item effect for the current room.
+Mom's Shovel,552,Creates a trapdoor that leads to the next floor. Unlocks The Forgotten when used on a mound of dirt that appears in Dark Room .
+Moving Box,523,"If the box is empty, picks up items and pickups in a room and stores them. If the box is not empty, places all stored items and pickups in the current room. Can carry up to 10 items or pickups at once."
+Mr. ME!,527,Summons a controllable ghost that can perform various tasks depending on what it targets.
+Mystery Gift,515,"Spawns a random item from the current room's item pool, with a chance to spawn A Lump of Coal or The Poop instead."
+Pause,478,Freezes all enemies until a fire button is pressed.
+Plan C,475,"Kills all enemies in the room, then kills Isaac three seconds later."
+Potato Peeler,487,"Removes a Heart Container , increases damage and range , and grants a Cube of Meat ."
+Sacrificial Altar,536,Sacrifices up to 2 familiars and spawns an item for each familiar sacrificed. Converts all friendly spiders and flies into coins .
+Sharp Straw,507,Damages all enemies in the room. Has a chance to drop a Half Red Heart or Half Soul Heart if an enemy is hit. Damages all enemies in the room. Has a chance to drop a Half Red Heart if an enemy is hit.
+Smelter,479,Consumes Isaac's currently held trinket and applies its effect permanently.
+Sprinkler,516,Creates a stationary sprinkler for the current room that rotates and fires tears in 8 directions. The tears copy Isaac's stats and most tear effects.
+Telekinesis,522,Any enemy shots that come near Isaac for the next three seconds are held in place then fired back.
+Void,477,"Consumes all pedestal items in the room. Active items will have their effects added to Void, and passive items will grant random stat upgrades."
+Wait What?,484,"Isaac farts, sending out a circular rock wave that destroys obstacles and hurts enemies."
+Abyss,706,Destroys all items in the room and gives Isaac a unique locust familiar for each item destroyed. Some items generate locusts with special effects.
+Alabaster Box,585,"Spawns three Soul Hearts and two Angel Room items and is consumed. Starts with no charges, and can only be charged by picking up 6 Soul Hearts."
+Anima Sola,722,"Chains down the nearest enemy for 5 seconds, preventing them from acting."
+Bag of Crafting,710,"Collects and holds up to 8 pickups , which can then be used to craft an item. The power level of the item is based on the quality of pickups used."
+Berserk!,704,"Isaac goes berserk for 5 seconds, greatly increasing his speed , tears , and damage , but restricting him to using a melee weapon instead of his tears. This item charges by dealing damage to enemies instead of clearing rooms."
+Book of Virtues,584,Spawns a destroyable orbiting wisp familiar that fires tears and deals contact damage. Also acts as a passive item that causes other active items to spawn themed wisps.
+Broken Glass Cannon,474,Begins with no charges and turns into Glass Cannon when used. Only acquired by taking damage while holding Glass Cannon.
+Clear Rune,263,Has the same effect as the rune or soul stone currently held by Isaac. The charge time is based on the power of the rune.
+Damocles,577,"Spawns a sword above Isaac's head, which doubles all item pedestals. After Isaac takes damage, the sword can randomly fall at any point, instantly killing him."
+Dark Arts,705,"Briefly grants +1 speed and makes Isaac invulnerable and intangible. When the effect ends, destroys all projectiles and damages all enemies Isaac ran through."
+Death Certificate,628,"Takes Isaac to an abandoned and expanded version of Home , which has one copy of every item in the game. After taking an item, Isaac returns to the room he used Death Certificate in."
+Decap Attack,729,"Throws Isaac's head, which is still able to fire tears at the spot it lands. Reactivating the item or stepping on the head reattaches it."
+Eraser,638,"Throws an eraser that instantly kills the first monster it hits, and prevents that monster from spawning for the rest of the run. Deals 15 damage to bosses, erasing that boss if fatal. Can only be used once per floor."
+Esau Jr.,703,"Swaps between the current character and Esau Jr., who has +2 flat damage and flight . Characters have independent items and health. Dying as either character ends the run."
+Eternal D6,609,Rerolls all items in the room. Each item has a 25% chance to disappear instead.
+Everything Jar,720,"Spawns certain pickups based on how many charges it has. If fully charged, instead has one of many unique effects."
+Flip,711,"Item pedestals have a second uninteractable ""ghostly"" item behind them. Activating will flip the real and ghostly items around. If playing as Tainted Lazarus , also flips between them and Dead Tainted Lazarus ."
+Fortune Cookie,557,"Gives Isaac a fortune, Soul Heart , Card , Rune , or trinket , similar to a Fortune Telling Machine . Fortunes are much more likely to be given than anything else."
+Free Lemonade,578,Creates a large pool of yellow creep beneath Isaac.
+Friend Finder,687,Spawns a random friendly monster that mimics Isaac's movements and attacks.
+Gello,728,"Spawns a demon familiar for the current room that's attached to Isaac and moves and fires in the direction Isaac shoots, using Isaac's damage , tears , range , shot speed , and special tear effects ."
+Genesis,622,"Removes all of Isaac's items and pickups and takes him to a unique Bedroom with some pickups and Chests and a trapdoor to the next floor . For every item Isaac lost, he gets to take an item from a set of three."
+Golden Razor,555,Spends five Pennies to increase Isaac's damage by 1.2 for the current room.
+Hold,715,"Exclusive to Tainted ??? . Allows him to save one poop bomb for later, allowing him to gather more over time."
+Jar of Wisps,685,"Spawns random wisps that shoot various tears, block shots, and deal contact damage. The number of wisps spawned increases every time the jar is used."
+Keeper's Box,719,Spawns a random shop item or pickup which can be bought for its normal price.
+Larynx,611,"Isaac shouts, damaging and pushing away nearby enemies. The shout gets stronger the more charges the item has. Larynx gains 1 charge whenever Isaac takes damage, in addition to charging normally."
+Lemegeton,712,"Spawns a wisp representing a random passive item, which orbits Isaac but can be destroyed. While the wisp is alive, Isaac gains that item's effects. Generation uses the current room's item pool 25% of the time, otherwise a random pool."
+Magic Skin,642,"Consumes one heart container or two Soul Hearts to spawn an item and give Isaac a broken heart container that can never be filled. If Magic Skin isn't being held after being used, it is very likely to replace any future items."
+Meat Cleaver,631,Splits all enemies in the room into two smaller versions of themselves with much less health.
+Mega Mush,625,"Gigantifies Isaac for 30 seconds, increasing damage and range while lowering tears , granting invulnerability, and allowing Isaac to crush enemies and obstacles he walks on. The effect persists between rooms."
+Mom's Bracelet,604,"Lets Isaac pick up and throw rocks , TNT , Poops , friendly Dips , Bombs , and other obstacles ."
+Plum Flute,650,Summons the boss Baby Plum to fight for Isaac in the current room.
+R Key,636,"Brings Isaac back to the first floor of a new run, retaining all of his items."
+Recall,714,Retrieves the Forgotten's body from any distance. Only available as the Birthright effect for Tainted Forgotten .
+Red Key,580,"Creates a Red Room adjacent to a viable wall, indicated by the outline of a door. These rooms have a 10% chance to be a special room ."
+Sharp Key,623,"Adds 5 Keys on pickup. Allows Isaac to throw his keys to deal damage to enemies, destroy obstacles , and open doors."
+Spin to Win,655,Gives +0.5 speed and greatly increases the rotation speed and damage of orbitals for 3 seconds. Passively gives Isaac a spinning top orbital that blocks enemy shots and deals contact damage.
+Spindown Dice,723,"Reduces the internal ID number of all items in the room by one, turning them into the item with that number."
+Stitches,635,"Passively spawns a familiar that moves in the direction Isaac shoots. On use, Isaac swaps places with the familiar."
+Sulfur,556,Grants Brimstone for the current room.
+Sumptorium,713,"Removes half a heart and creates a Clot familiar that mimics Isaac's movements and tear effects. As Tainted Eve , passively converts health into Clots while firing. Activating returns all Clots to health."
+Suplex!,709,"Isaac dashes forward and picks up the first enemy hit. After a moment, he slams them into the ground to deal damage and create a circular rock wave."
+The Scooper,605,"Summons The Peeper for the current room, which leaves a trail of red creep ."
+Urn of Souls,640,"Spews a stream of damaging flame. Gains Soul Charges each time an enemy dies, which are used to fuel the urn."
+Vade Retro,653,"While held, enemies leave behind ghosts on death. Stronger enemies leave bigger ghosts. Using the item causes the ghosts to explode and damage nearby enemies, and instantly kills all ghost enemies with less than 50% HP."
+Wavy Cap,582,"Increases fire rate , decreases speed , and distorts the screen. All effects become more pronounced with repeated use, and wear off by clearing rooms."
+Yuck Heart,639,Gives Isaac a Rotten Heart .

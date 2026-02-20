@@ -1,0 +1,550 @@
+Name,id,Description
+The Sad Onion,1,+0.7 tears .
+The Inner Eye,2,Isaac shoots three tears at once with lower fire rate .
+Spoon Bender,3,Grants Isaac homing tears .
+Cricket's Head,4,"Increases Damage by 0.5, and increases damage multiplier by ×1.5."
+My Reflection,5,"Gives Isaac's tears a boomerang effect. +1.5 range , +1 tear falling speed , x1.6 shot speed multiplier. 2x + 1.5 range , +1.5 damage , -1 luck , 1.6x shot speed multiplier."
+Number One,6,"Grants +1.5 tears , but severely reduces range ."
+Blood of the Martyr,7,+1 damage . Isaac shoots blood tears.
+Brother Bobby,8,Spawns a familiar that follows Isaac around shooting tears that deal 3.5 damage. He shoots more frequently than most familiars.
+Skatole,9,Flies become harmless or less dangerous depending on the type.
+Halo of Flies,10,Spawns two Pretty Flies that block enemy shots and deal contact damage to flies.
+1up!,11,"Gives Isaac an extra life. Upon death, he will respawn in the previous room with full health, after which 1up! will disappear."
+Magic Mushroom,12,"Makes Isaac bigger. Adds one Red Heart Container , +0.3 Damage , x1.5 damage multiplier, +5.25 Range , +0.3 Speed , and restores all Health. Makes Isaac bigger. Adds one Red Heart Container , +0.3 Damage , x1.5 damage multiplier, +2.5 Range , +0.3 Speed , and restores all Health."
+The Virus,13,Isaac poisons enemies on contact. -0.1 speed . +0.2 speed . Poisoned enemies have a chance to drop a black heart when killed.
+Roid Rage,14,"+0.6 speed , +5.25 range , +0.5 tear falling speed . +0.3 speed , +2.5 range"
+<3,15,Grants Isaac one Red Heart container and fully restores Isaac's health .
+Raw Liver,16,Grants 2 Red Heart containers and completely restores health .
+Skeleton Key,17,Gives Isaac 99 Keys .
+A Dollar,18,Gives Isaac 100 Pennies .
+Boom!,19,Grants 10 Bombs .
+Transcendence,20,Grants flight .
+The Compass,21,"Reveals the locations and types of all special rooms on the map, except Secret Rooms and Super Secret Rooms ."
+Lunch,22,Grants one full Red Heart container . Heals 1 additional Red Heart .
+Dinner,23,Grants one full Red Heart container . Heals 1 additional Red Heart .
+Dessert,24,Grants one full Red Heart container . Heals 1 additional Red Heart .
+Breakfast,25,Grants one full Red Heart container . Heals 1 additional Red Heart .
+Rotten Meat,26,Grants one full Red Heart container . Heals 1 additional Red Heart .
+Wooden Spoon,27,+0.3 speed .
+The Belt,28,+0.3 speed .
+Mom's Underwear,29,"+5.25 range , +0.5 tear falling speed . +2.5 range . Spawns 3-6 Blue Flies on pickup."
+Mom's Heels,30,"+5.25 range , +0.5 tear falling speed . +2.5 range , enemies that touch Isaac take 12 damage."
+Mom's Lipstick,31,"+5.25 range , +0.5 tear falling speed . +3.75 range . Spawns a Heart on pickup."
+Wire Coat Hanger,32,+0.7 tears .
+Lucky Foot,46,"+1 luck . Improves Isaac's chances at various random events (independent from the luck stat). Converts all bad pills into good pills, without identifying them."
+Cupid's Arrow,48,Grants Isaac piercing tears that travel through enemies (but not obstacles) instead of breaking on impact with them.
+Steven,50,+1 damage .
+Pentagram,51,"+1 damage , increases Devil Room / Angel Room chance by 10%."
+Dr. Fetus,52,Tears are replaced by Bombs that benefit from bomb-enhancing effects and slide for a fixed time after being fired.
+Magneto,53,Pulls pickups towards Isaac.
+Treasure Map,54,Reveals the map of each floor . It does not identify special rooms and does not reveal the locations of Secret Rooms / Super Secret Rooms .
+Mom's Eye,55,Gives Isaac a chance to fire tears from the back of his head.
+Distant Admiration,57,"Spawns an attack fly that circles further out than Halo of Flies , but closer than Forever Alone , dealing 75 damage per second."
+The Ladder,60,Allows Isaac to walk across gaps one square across by automatically placing a ladder between the two walkable sections.
+Charm of the Vampire,62,Heals Isaac for a Half Red Heart for every 13 enemies killed. +0.3 damage .
+The Battery,63,"Activated items can be overcharged, allowing them to store up to one extra use."
+Steam Sale,64,"Reduces all Shop prices by 50%, rounded down to 7 coins for an item, rounded up to 2-3 coins for a pickup."
+Sister Maggy,67,Spawns a familiar that follows Isaac around shooting tears that deal 3.5 damage. Spawns a familiar that follows Isaac around shooting tears that deal 6 damage.
+Technology,68,Replaces tears with a piercing laser with unlimited range.
+Chocolate Milk,69,Grants charged tears that deal greater damage when fully charged.
+Growth Hormones,70,"+1 damage , +0.4 speed . +1 damage , +0.2 speed ."
+Mini Mush,71,"Decreases Isaac's size, making him less likely to be hit. +0.3 speed , +1.5 tear falling speed , -4.25 range (effective range is increased). +0.3 speed , +2.5 range ."
+Rosary,72,Grants 3 Soul Hearts . Causes The Bible to appear in any item pool . +0.5 tears .
+Cube of Meat,73,"Creates an orbital familiar . Collecting additional copies gives it the ability to shoot tears, then chase enemies to deal contact damage, then deal even more contact damage."
+A Quarter,74,Gives Isaac 25 coins .
+PHD,75,"Converts all bad pills into good pills, spawns one pill pickup, and identifies all pills. Restores two Red Hearts and increases the payout of Blood Donation Machines ."
+X-Ray Vision,76,Reveals and opens all Secret Room and Super Secret Room entrances.
+The Mark,79,"Grants one Soul Heart , +1 damage , and +0.2 speed . Grants one Black Heart , +1 damage , and +0.2 speed ."
+The Pact,80,"Grants two Soul Hearts , +0.5 damage , and +0.7 tears . Grants two Black Hearts , +0.5 damage , and +0.7 tears ."
+Dead Cat,81,"Sets Isaac's Red Heart Containers to 1, but grants 9 extra lives. After dying, Isaac respawns with 1 Red Heart Container."
+Lord of the Pit,82,Grants flight and +0.3 speed .
+Loki's Horns,87,Gives a random chance for projectiles to fire in all 4 cardinal directions.
+Little Chubby,88,Spawns a Charger familiar that charges forward and deals contact damage to any enemies in its path.
+Spider Bite,89,"Adds a chance to shoot slowing tears , reducing speed of enemy movement and any projectile fired by them."
+The Small Rock,90,"+1 damage , +0.2 tears , -0.2 speed ."
+Spelunker Hat,91,"Reveals type of adjacent rooms, including location for Secret Rooms and Super Secret Rooms . Reveals rooms up to 2 rooms away and blocks projectiles falling from above."
+Super Bandage,92,Grants one full Red Heart container and 2 Soul Hearts .
+Sack of Pennies,94,Spawns a familiar that drops a coin every 2 rooms .
+Robo-Baby,95,Spawns a familiar that shoots Technology lasers.
+Little C.H.A.D.,96,Spawns a familiar who drops a Half Red Heart every 3 rooms.
+The Relic,98,Spawns a cross familiar that drops a Soul Heart after clearing enough rooms .
+Little Gish,99,"Spawns a familiar that follows Isaac around and fires slowing tears , impeding enemies' speed."
+Little Steven,100,Spawns a familiar who follows Isaac around and fires homing tears .
+The Halo,101,"Grants one full Red Heart container , +0.3 damage , +0.2 tears , +0.25 range , +0.3 speed , and +0.5 tear falling speed . Grants one full Red Heart container , +0.3 damage , +0.2 tears , +1.5 range , and +0.3 speed . Heals 1 additional Red Heart ."
+The Common Cold,103,"Adds a chance to shoot poison tears , dealing damage over time when inflicted."
+The Parasite,104,Isaac's tears split in two when they hit something.
+Mr. Mega,106,"+5 Bombs . Increases the size, blast radius, and damage of Isaac's bombs."
+The Wafer,108,Most sources of damage that would cause more than one-half heart of damage are reduced to one-half heart instead.
+Money = Power,109,"Increases damage by 0.04 for every coin Isaac has, up to +3.96 damage at 99 coins."
+Mom's Contacts,110,"Adds a chance to shoot petrifying tears , which stop enemies in place and prevent them from moving or attacking. +0.25 range . +1.5 range ."
+Guardian Angel,112,"Spawns an orbital familiar that blocks enemy shots, deals 7 damage per tick on contact, and increases the speed of all orbital familiars."
+Demon Baby,113,Spawns a familiar that follows Isaac and automatically fires at enemies in its reach.
+Mom's Knife,114,"Isaac's tears are replaced by a knife that pierces enemies, can travel through obstacles, and can hurt enemies while Isaac is holding it. Holding down the fire button before firing increases its range and power."
+Ouija Board,115,Grants spectral tears that travel through obstacles (but not enemies). +0.5 tears .
+9 Volt,116,Reduces the charge of any activated item by 1. Any 1 charge items instead have timed recharges.
+Dead Bird,117,"After Isaac takes damage, spawns a flying familiar that chases enemies for the current room , dealing ~4 damage per second."
+Brimstone,118,Tears are replaced with a blood laser beam that pierces through all enemies and obstacles in its path and deals high damage. Can only be fired after a short charge-up period.
+Blood Bag,119,"Grants one filled Red Heart container , restores 4 Red Hearts , and increases speed by 0.3."
+Odd Mushroom,120,"+1.7 tears , +0.3 speed , slightly reduces damage ."
+Odd Mushroom,121,"Grants one empty Heart container , +0.3 damage , +0.25 range , +0.5 tear falling speed , and -0.1 speed . Grants one full Heart container , +1 damage , +1.5 range , and -0.2 speed"
+Whore of Babylon,122,Grants +1.5 Damage and +0.3 Speed whenever Isaac has a Half Red Heart or less.
+Bobby-Bomb,125,"+5 Bombs . Bombs gain a homing effect, slowly moving towards the nearest enemy."
+Forever alone,128,"Spawns an attack fly that orbits a long distance from Isaac, dealing 30 damage per second."
+Bucket of Lard,129,"Grants two empty Red Heart containers , heals Isaac for a Half Red Heart , -0.2 speed . Grants two Red Heart containers , -0.2 speed ."
+Bomb Bag,131,Spawns a familiar that drops a Bomb every 3 rooms.
+A Lump of Coal,132,"The more distance tears travel, the more damage they will do."
+Guppy's Tail,134,Room Clear Awards have a 1/3 chance of being replaced with a Chest and a 2/9 chance being replaced with nothing.
+Stigmata,138,"+0.3 damage , grants one full Red Heart container . Heals 1 additional Red Heart ."
+Mom's Purse,139,Allows Isaac to hold one additional trinket . Drops a random trinket.
+Bob's Curse,140,"+5 Bombs . Grants Isaac's bombs a poison effect. They also leave a lingering poison cloud, and Isaac becomes immune to poison."
+Pageant Boy,141,Spawns seven random coins around Isaac.
+Scapular,142,"Once per room, when Isaac is reduced to his last half heart, he is granted one Soul Heart ."
+Speed Ball,143,"+0.3 speed , +0.2 shot speed ."
+Bum Friend,144,"Spawns a familiar that picks up coins for himself, giving random pickups in return. Can spawn Items from the Beggar Item Pool ."
+Infestation,148,1-3 Blue Flies randomly spawn every time Isaac gets hit. 2-6 Blue Flies randomly spawn every time Isaac gets hit.
+Ipecac,149,Replaces tears with explosive and poisoning projectiles fired in an arc from the mouth.
+Tough Love,150,"Adds a chance to shoot a tooth instead of a tear, which deals x3.2 Isaac's damage ."
+The Mulligan,151,Tears have a 1/6 chance of spawning allied Blue Flies when they hit an enemy.
+Technology 2,152,Replaces the tears fired from Isaac's right eye with a rapid-firing low damage piercing laser. Damage down.
+Mutant Spider,153,Isaac shoots four tears at once with lower fire rate .
+Chemical Peel,154,Tears fired from the left eye have +2 flat damage .
+The Peeper,155,"Spawns a familiar that slowly floats around the room in a zig-zag pattern, damaging enemies it passes through. Increases the damage of tears from Isaac's left eye by 35%."
+Habit,156,"When Isaac is hit, his active item gains 1 room's worth of charge."
+Bloody Lust,157,"Increases Isaac's damage whenever he takes damage, up to six times. The bonus resets when entering a new floor."
+Spirit of the Night,159,Grants spectral tears and flight .
+Ankh,161,"Upon death , Isaac will respawn as ??? in the previous room, with 3 Soul Hearts ."
+Celtic Cross,162,"Grants a chance to trigger the Book of Shadows effect upon taking damage, creating a shield that nullifies all types of damage for 7 seconds."
+Ghost Baby,163,Spawns a familiar that follows Isaac around and fires spectral tears .
+Cat-o-nine-tails,165,"+1 damage , +0.23 shot speed ."
+Harlequin Baby,167,Spawns a familiar that follows Isaac around and fires two tears at once in a V-pattern.
+Epic Fetus,168,"Isaac's tears are replaced with guided missiles, like those used by the Doctor's Remote ."
+Polyphemus,169,"Isaac fires huge tears that deal massive damage , but fire rate is greatly decreased. If a tear kills an enemy, it travels on with any leftover damage."
+Daddy Longlegs,170,Daddy Long Legs' shadow follows Isaac and occasionally stomps enemies for 40 damage total.
+Sacrificial Dagger,172,"Spawns a dagger orbital familiar , blocking enemy shots and dealing a high amount of damage to enemies in contact."
+Mitre,173,Grants a chance of converting any Red Heart pickups that spawn into Soul Hearts instead.
+Rainbow Baby,174,Spawns a familiar that follows Isaac around and fires tears with random effects.
+Stem Cells,176,Grants one full Red Heart container and +0.16 shot speed . Heals 1 additional Red Heart
+Holy Water,178,"Spawns a bottle familiar that breaks when Isaac takes damage, leaving a puddle of blue creep . A bottle familiar that flies forward when Isaac shoots. It breaks upon hitting an enemy, leaving a puddle of blue creep that petrifies enemies."
+Fate,179,Grants flight and one Eternal Heart .
+The Black Bean,180,"When taking damage, Isaac farts, poisoning enemies in range. When taking damage, Isaac farts five times, poisoning and knocking back nearby enemies and leaving lingering poison clouds."
+Sacred Heart,182,"Adds a Red Heart Container . Grants homing tears , a x2.3 Damage multiplier, +1 flat Damage, -0.4 Tears , -0.25 Shot Speed , and +4.125 Range . Adds a Red Heart Container . Grants homing tears , a x2.3 Damage multiplier, +1 flat Damage, -0.4 Tears , and -0.25 Shot Speed ."
+Tooth Picks,183,"+0.7 tears , +0.16 shot speed ."
+Holy Grail,184,Grants flight and one Red Heart container . Heals 1 additional Red Heart .
+Dead Dove,185,Grants spectral tears and flight .
+Guppy's Hairball,187,"Spawns a familiar that loosely follows behind Isaac, which blocks shots can be swung like a flail to damage enemies. Grows bigger by killing enemies."
+Abel,188,Spawns a familiar that mirrors Isaac's movements and shoots in the opposite direction. Spawns a familiar that mirrors Isaac's movements and shoots towards him.
+SMB Super Fan,189,"+1 Red Heart container , +0.3 damage , +0.2 tears , +0.2 speed , +0.5 range , +1 tear falling speed . Fully restores all red hearts. +1 Red Heart container , +0.3 damage , +0.2 tears , +0.2 speed , +2.5 range . Fully restores all red hearts."
+Pyro,190,Grants 99 Bombs .
+3 Dollar Bill,191,Gives Isaac a random tear effect every room. Gives Isaac a random tear effect every few seconds.
+MEAT!,193,"Grants one full Red Heart container , +0.3 damage . Heals 1 additional Red Heart"
+Magic 8 Ball,194,"+0.16 shot speed , spawns a random tarot card . Increases the chance of finding a Planetarium ."
+Mom's Coin Purse,195,Spawns 4 random pills near Isaac.
+Squeezy,196,"+0.4 tears , spawns 2 Soul Hearts ."
+Jesus Juice,197,"+0.5 damage , +0.25 range , +0.5 tear falling speed . +0.5 damage , +1.5 range ."
+Box,198,"Spawns various pickups : 1 coin , 1 Key , 1 Bomb , 1 Heart , 1 card / rune , 1 pill and 1 trinket ."
+Mom's Key,199,Adds 2 keys. Chests will drop additional pickups .
+Mom's Eyeshadow,200,Tears have a chance to charm enemies.
+Iron Bar,201,"+0.3 damage . Adds a chance to shoot concussive tears , causing enemies to walk around randomly."
+Midas' Touch,202,Enemies that touch Isaac are temporarily petrified and turn to gold. Any enemy killed while in this state will drop Pennies .
+Humbleing Bundle,203,"Transforms Bombs , Keys , Pennies , and Red Hearts into their respective Double versions. This will occur 50% of the time."
+Fanny Pack,204,Has a chance to drop a random pickup when Isaac takes damage.
+Sharp Plug,205,Damages Isaac in exchange for fully recharging Isaac's current activated item.
+Guillotine,206,"Isaac's head becomes an orbital familiar that blocks shots and deals contact damage. Tears are still fired from the rotating head. +1 damage , -1 tear delay . +1 damage , +0.5 fire rate ."
+Ball of Bandages,207,"Creates an orbital familiar . Collecting additional copies gives it the ability to shoot Charm tears, then chase enemies to deal contact damage, then deal even more contact damage."
+Champion Belt,208,+1 damage . Increases the chance of champion enemies appearing by 15%.
+Butt Bombs,209,"+5 Bombs . Bombs now cloud up the screen, briefly damaging and confusing all enemies."
+Gnawed Leaf,210,"After standing still and not shooting for a short time, Isaac turns invincible until he moves or shoots."
+Spiderbaby,211,Spawns 1-2 Blue Spiders when Isaac takes damage. Spawns 3-5 Blue Spiders when Isaac takes damage.
+Guppy's Collar,212,Grants a permanent 50% chance to respawn with 1/2 of a Red Heart after death .
+Lost Contact,213,Isaac's tears can hit and destroy enemy projectiles. -0.15 shot speed .
+Anemic,214,"After Isaac is damaged, a trail of red creep will be left behind him until he leaves the current room. +5 range . +1.5 range ."
+Goat Head,215,"A Devil Room / Angel Room will always spawn after every boss fight, excluding the first floor and floors after Chapter 4."
+Ceremonial Robes,216,Grants 3 Black Hearts and +1 damage .
+Mom's Wig,217,Adds a chance to spawn Blue Spiders when firing tears. Restores 1 Red Heart .
+Placenta,218,"Grants one full Red Heart container , and a chance to regenerate a Half Red Heart of health every minute of gameplay."
+Old Bandage,219,Grants an empty Red Heart container . Adds a chance of dropping a Red Heart after taking damage.
+Sad Bombs,220,"+5 Bombs . Upon exploding, bombs shoot 10 tears around them, affected by tear modifiers."
+Rubber Cement,221,"Tears bounce off walls, enemies , and environmental objects ."
+Anti-Gravity,222,"Tears float in position until firing ceases, after which they will fly off in the direction they were shot in. -2 Tear Delay. +1 Fire Rate."
+Pyromaniac,223,+5 bombs . Grants immunity to explosion damage and causes explosions to heal Isaac. Also grants immunity to fire.
+Cricket's Body,224,"When tears hit an object or deplete their range, they spawn 4 smaller tears, whose range and damage scale with Isaac's. Grants -1 tear delay and reduces range . Grants +0.5 fire rate and reduces range ."
+Gimpy,225,Gives chance of spawning a Soul Heart when taking damage. Enemies have a chance to drop a Half Red Heart after being killed.
+Black Lotus,226,"Grants one Red Heart Container , one Soul Heart , and one Black Heart ."
+Piggy Bank,227,"Gives 3 Pennies on pick-up. Every time Isaac is damaged, he will drop one or two additional pennies."
+Mom's Perfume,228,Adds a chance to shoot fear tears . Decreases tear delay by 1. +0.5 fire rate .
+Monstro's Lung,229,Replaces normal tears with a charged shot that fires 14 tears in the same fashion as Monstro .
+Abaddon,230,"+1.5 damage , +0.2 speed . Removes all Red Heart containers , grants six Black Hearts , and adds a chance to shoot fear tears. +1.5 damage , +0.2 speed . Grants two Black Hearts , converts all Red Heart Containers into Black Hearts, and adds a chance to shoot fear tears."
+Ball of Tar,231,"Adds a chance to shoot slowing tears. Isaac leaves a trail of slowing creep behind as he moves, impeding enemies' speed."
+Stop Watch,232,"+0.3 speed . Automatically inflicts slow to all enemies in every room. +0.3 speed . Upon taking damage, inflicts slow to all enemies for the current room. +0.3 speed . Slows all enemies in every room to 80% speed."
+Tiny Planet,233,Massively increases Range and grants spectral tears . Tears orbit around Isaac at a fixed distance until they hit the ground.
+Infestation 2,234,Spawns allied Blue Spiders from killed enemies.
+E. Coli,236,Enemies that touch Isaac are transformed into Poop .
+Death's Touch,237,"+1.5 damage , -0.3 tears . Tears are replaced with large piercing scythes."
+Key Piece 1,238,"Combined with Key Piece 2 , unlocks the golden gate in the starting room of Chest and Dark Room to fight Mega Satan ."
+Key Piece 2,239,"Combined with Key Piece 1 , unlocks the golden gate in the starting room of Chest and Dark Room to fight Mega Satan ."
+Experimental Treatment,240,Randomly increases and decreases some of Isaac's stats . Increases four random stats and decreases the other two.
+Contract From Below,241,"Doubles the number of most room clear awards, but reduces the overall chance of getting one by 1/3."
+Infamy,242,Gives Isaac a 50% chance to block projectiles coming from any direction.
+Trinity Shield,243,Isaac gains a shield that protects him from enemy shots. It aims in the direction Isaac fires from.
+Tech.5,244,"Isaac occasionally fires an unlimited range piercing laser alongside his normal tears. The laser can glitch, mimicking the effects of certain items and trinkets."
+20/20,245,"Isaac fires two tears at once, one from each eye. 0.8× damage multiplier."
+Blue Map,246,Reveals the locations of Secret Rooms and Super Secret Rooms on the map.
+BFFS!,247,Increases the size and effectiveness of most familiars .
+Hive Mind,248,Increases the size of Blue Spiders and Blue Flies and doubles the amount of damage they deal. Also increases the effectiveness of fly and spider familiars .
+There's Options,249,Two items appear after defeating a Boss . Only one can be taken; the other will disappear.
+BOGO Bombs,250,All normal Bombs become Double Bombs .
+Starter Deck,251,Isaac can hold 2 cards at once and all pills are replaced by cards.
+Little Baggy,252,Isaac can hold 2 pills at once and all cards and runes are replaced by pills.
+Magic Scab,253,"Grants one full Red Heart container , +1 luck . Heals 1 additional Red Heart ."
+Blood Clot,254,"Tears fired from the left eye have +1 flat damage , +5 range , and +0.5 tear falling speed . Tears fired from the left eye have +1 flat damage and +2.75 range ."
+Screw,255,"+0.5 tears , +0.2 shot speed ."
+Hot Bombs,256,+5 Bombs . Isaac's bombs leave behind fire that damages enemies upon contact.
+Fire Mind,257,"Grants flaming tears that deal burning damage over time. Tears have a chance to explode on impact with an enemy, which creates a fire at the location of the explosion."
+Missing No.,258,Randomizes all passive items and stats upon pickup and at the start of each succeeding floor.
+Dark Matter,259,"+1 damage , adds a chance to shoot fear tears ."
+Black Candle,260,Prevents curses . Grants one Black Heart . Increases the chance for a Devil Room or Angel Room to appear.
+Proptosis,261,"Tears start out massive with high damage , and then shrink down and become weaker over a short range."
+Missing Page 2,262,"Grants one Black Heart . Upon taking damage that reduces Isaac's health to one heart or less, deals damage to all enemies in the room. Increases the damage of Black Hearts and The Necronomicon -like effects by 40."
+Smart Fly,264,"Spawns an orbital familiar that blocks enemy shots. Upon taking damage, the familiar will pursue enemies for the rest of the room , dealing 22.5 damage per second."
+Dry Baby,265,"Spawns a familiar that follows Isaac around and blocks enemy projectiles. Upon blocking a shot, it has a chance of triggering The Necronomicon effect."
+Juicy Sack,266,"Spawns a familiar that follows Isaac and drips a trail of slow creep , spawning 1-2 Blue Spiders after each room ."
+Robo-Baby 2.0,267,Spawns a familiar that fires lasers at any enemy in its line of sight and moves based on the direction Isaac is firing tears.
+Rotten Baby,268,Spawns a familiar that spawns a Blue Fly when Isaac shoots. It can only have one Fly at a time.
+Headless Baby,269,"Spawns a familiar that follows Isaac, leaving blood creep on the ground."
+Leech,270,"Spawns a leech familiar that chases enemies, dealing ~3 damage per second. Heals a Half Red Heart whenever Leech kills an enemy."
+Mystery Sack,271,"Spawns a familiar that drops a Heart , coin , Bomb , or Key every 5-6 rooms ."
+BBF,272,Spawns a familiar that flies around the room in a zig-zag pattern and explodes on contact with an enemy. Respawns after ten seconds.
+Bob's Brain,273,"Spawns a familiar that charges forward when shooting tears and explodes upon contact with an enemy, damaging and poisoning them. The familiar respawns after a few seconds."
+Best Bud,274,"When hit, spawns a quickly orbiting attack fly similar to Forever alone for the current room that deals high damage."
+Lil Brimstone,275,Grants a familiar that charges a thin Brimstone laser while Isaac is shooting.
+Isaac's Heart,276,"Isaac himself is now immune to all damage, and a heart familiar follows him. If the heart is hurt, Isaac is hurt. The heart charges up as Isaac shoots, firing 8 blood shots, knocking back enemies, and leaving a puddle of creep when released."
+Lil Haunt,277,"Spawns a familiar that chases down enemies, dealing 4 damage per second and inflicting fear ."
+Dark Bum,278,"Spawns a familiar that follows Isaac around and collects Red Hearts . For every 1½ Red Hearts collected, Dark Bum will give a reward."
+Big Fan,279,"Spawns a large, slow-moving orbital familiar that blocks enemy shots and deals 30 damage per second to enemies. Reduces the speed other orbitals rotate at."
+Sissy Longlegs,280,"Spawns a familiar that wanders randomly, occasionally spawning Blue Spiders . Briefly charms enemies on contact."
+Punching Bag,281,Spawns a Mulligan familiar that wanders randomly. Enemies will attack the Mulligan if it's closer.
+Taurus,299,"-0.3 Speed . Isaac builds speed while in a room with enemies. At max speed, he gains the My Little Unicorn effect for 5 seconds."
+Aries,300,+0.25 Speed . Running into enemies while at a high speed will deal damage. Prevents Isaac from taking contact damage while moving at high speed.
+Cancer,301,Adds 3 Soul Hearts . Grants The Wafer effect for the current room after taking damage.
+Leo,302,Isaac can destroy rocks by walking into them.
+Virgo,303,Adds a chance to give a shield that nullifies all incoming damage for 10 seconds upon taking damage. Also converts bad pills into good pills.
+Libra,304,"Gives 6 Coins , 6 Bombs , and 6 Keys and balances out all attributes ."
+Scorpio,305,"Grants poison tears , which deal damage over time when inflicted."
+Sagittarius,306,Increases speed by +0.2 and grants piercing tears .
+Capricorn,307,"Adds 1 Red Heart Container , gives +0.5 Damage , +0.1 Speed , +1.5 Range , and -1.0 Tear Delay , and gives 1 Bomb , Penny , and Key . Adds 1 Red Heart Container , gives +0.5 Damage , +0.1 Speed , +0.75 Range , and +0.5 Fire Rate , and gives 1 Bomb , Penny , and Key ."
+Aquarius,308,"A trail of blue creep is left behind Isaac, which damages enemies. The creep scales with damage and inherits most tear effects ."
+Pisces,309,"-1 Tear Delay, adds knock-back shots and increases tear size. +0.5 Fire Rate, adds knock-back shots and increases tear size."
+Eve's Mascara,310,"Doubles damage , halves tears stat, and greatly reduces shot speed . Doubles damage , 0.66x tears multiplier, and greatly reduces shot speed ."
+Judas' Shadow,311,"Upon death , respawns Isaac as Dark Judas with two Black Hearts in the previous room."
+Maggy's Bow,312,Gives one Red Heart Container and doubles the healing provided by Red Hearts . Also heals 1 Red Heart when obtained.
+Holy Mantle,313,Grants a shield that negates the first instance of damage taken from a hostile source once per room.
+Thunder Thighs,314,Destroys rocks upon contact with Isaac. Adds one Red Heart container and lowers Speed .
+Strange Attractor,315,"Pickups , trinkets , and monsters are magnetically attracted to Isaac's tears."
+Cursed Eye,316,Grants charged tears that can be fired in a tight burst. Getting hit while charging will teleport Isaac to another room.
+Mysterious Liquid,317,"Tears leave a small, short lasting pool of creep on impact or when their range is depleted."
+Gemini,318,"Spawns a conjoined familiar which chases enemies close to Isaac, dealing ~6.43 damage per second."
+Cain's Other Eye,319,Spawns a familiar that slowly floats around the room on a zig-zag pattern and shoots normal tears in the same direction as Isaac. Spawns a familiar that follows Isaac and fires tears in random cardinal directions that copy Isaac's tears and tear effects and scale with damage .
+???'s Only Friend,320,Spawns a controllable familiar that deals 37.5 damage per second on touch. It can be moved using the shooting directional keys
+Samson's Chains,321,"Attaches a ball and chain to Isaac that pulls behind him that damages enemies, blocks shots, and destroys most Obstacles ."
+Mongo Baby,322,Spawns a familiar that copies the tears of Isaac's other familiars.
+The Polaroid,327,"If Isaac has half a red heart or no red hearts after taking damage, he gains a shield that nullifies all types of damage for 5 seconds. Allows entrance into Chest . Also allows access to Home ."
+The Negative,328,"If Isaac has half a red heart or no red hearts after taking damage, all enemies in the room take significant damage. Allows entrance into the Dark Room . +1 Damage and also allows access to Home ."
+The Ludovico Technique,329,"Instead of firing tears, Isaac controls one floating tear that hover over obstacles. This tear deals constant damage when held in place over an enemy."
+Soy Milk,330,"Tears are smaller and do much less damage , but fire in very rapid succession."
+Godhead,331,"Grants homing tears with a damaging halo. +0.5 Damage , -0.3 Tears -0.3 Shot Speed , +0.8 Tear Falling Speed , and +1.2 Range . Grants homing tears with a damaging halo. +0.5 Damage , -0.3 Tears , and -0.3 Shot Speed ."
+Lazarus' Rags,332,"Upon dying, resurrect as Lazarus Risen in the current room with one Red Heart container and Anemic . Upon dying, resurrect as Lazarus Risen in the current room with one less Red Heart container, Anemic , and +0.5 Damage . Transform into Lazarus when reaching the next floor."
+The Mind,333,"Reveals the entire map, including all special rooms and Secret Rooms ."
+The Body,334,Adds 3 Red Heart Containers .
+The Soul,335,Grants two Soul Hearts . Isaac gains a pulsing aura that repels enemies and projectiles.
+Dead Onion,336,Grants piercing and spectral tears. Increases tear size (without increasing damage ) while greatly reducing range and shot speed .
+Broken Watch,337,"Slows all enemies in every fourth newly-discovered room, with a small chance to speed them up instead."
+Safety Pin,339,"Grants one Black Heart , +5.25 range , +0.5 tear falling speed , +0.16 shot speed . Grants one Black Heart , +2.5 range , +0.16 shot speed ."
+Caffeine Pill,340,"Grants +0.3 speed , reduces Isaac's size, and gives a random pill ."
+Torn Photo,341,"+0.7 tears , +0.16 shot speed ."
+Blue Cap,342,"Gives one full Red Heart container , +0.7 tears , and -0.16 shot speed . Heals 1 additional Red Heart ."
+Latch Key,343,Grants 1 Soul Heart and +1 luck . Spawns 2 Keys .
+Match Book,344,"Grants Isaac one Black Heart , spawns two or three Bombs . Also spawns Match Stick if it hasn't been encountered yet."
+Synthoil,345,"+1 damage , +5.25 range , +0.5 tear falling speed . +1 damage , +2.5 range ."
+A Snack,346,Grants one full Red Heart container . Heals 1 additional Red Heart .
+Toxic Shock,350,"Upon entering a room, poisons all enemies, dealing double Isaac's tear damage . Killing enemies leaves a small, short-lasting pool of green creep on the ground."
+Bomber Boy,353,+5 Bombs . Isaac's bombs will now explode in a large cross-shaped pattern (roughly 5 bombs explosions wide). This also affects player-spawned Troll Bombs .
+Crack Jacks,354,Grants one full Red Heart container and drops a random trinket . Heals 1 additional Red Heart .
+Mom's Pearls,355,"+1.25 range , +0.5 tear falling speed , +1 luck . +2.5 range , +1 luck . Grants one Soul Heart ."
+Car Battery,356,Causes Isaac's activated item to activate twice on each use.
+The Wiz,358,"Grants spectral tears. Tears simultaneously fire out of both eyes diagonally, similar to the effect of the R U a Wizard? pill."
+8 Inch Nails,359,"+1.5 damage . Replaces Isaac's tears with nails, which have increased knockback ."
+Incubus,360,"Spawns a demonic familiar that shoots tears identical to Isaac's in terms of damage , tears , and tear effects ."
+Fate's Reward,361,A blue head familiar that will follow Isaac and fire tears copying his tear effects and damage .
+Lil Chest,362,Spawns a chest familiar that spawns a random pickup (25% chance) or trinket (10% chance) upon clearing a room .
+Sworn Protector,363,"Spawns an orbital familiar which does 105 damage per second and attracts and blocks enemy shots. Upon blocking 10 shots in a room , it drops an Eternal Heart ."
+Friend Zone,364,"Spawns a white attack fly that orbits somewhere between Distant Admiration and Forever Alone , dealing 45 damage per second."
+Lost Fly,365,Spawns a fly familiar that moves in a straight line and circles around the first wall or obstacle it hits. It deals 105 damage per second on contact. It deals 56 damage per second and forces nearby enemies to attack it.
+Scatter Bombs,366,+5 Bombs . Isaac's bombs explode into 2-4 tiny bombs.
+Sticky Bombs,367,+5 Bombs . Bombs stick to enemies and spawn 2-4 Blue Spiders if they kill an enemy. They also leave a long-lasting puddle of slowing white creep .
+Epiphora,368,"Shooting in one direction increases Isaac's rate of fire until the cap is reached. As soon as Isaac changes direction or stops shooting, rate of fire is reset to its normal amount."
+Continuum,369,Grants spectral tears and increases range . Tears travel through walls and appear at the opposite side of the room.
+Mr. Dolly,370,"+0.7 tears , +5.25 range , +0.5 tear falling speed , Spawns a combination of 3 Red Hearts , Soul Hearts or Black Hearts on the floor when picked up. +0.7 tears , +2.5 range , spawns 3 random types of Hearts on the floor when picked up."
+Curse of the Tower,371,"Upon taking damage, spawns six Troll Bombs around the room, similar to the effect of XVI - The Tower ."
+Charged Baby,372,"Spawns a familiar that occasionally drops a Lil' Battery , gives an active item charge, or petrifies all enemies in the room."
+Dead Eye,373,Isaac's damage increases each time an enemy is hit. Damage is reset upon missing a shot.
+Holy Light,374,"Adds a chance to fire holy tears, which will create a damaging light beam in the area if they hit an enemy."
+Host Hat,375,A host familiar that sits on Isaac's head and has a random chance to block enemy shots and retaliate with 3 tears. Grants immunity to explosions.
+Restock,376,"Causes Shops to instantly restock their items when they are bought. Outside of Greed Mode , the restocked item's cost is increased after each purchase."
+Bursting Sack,377,Spider enemies no longer target or deal contact damage to Isaac.
+Number Two,378,"Continuously firing tears for three seconds causes Isaac to drop a Butt Bomb , which damages and confuses all enemies in the room when it explodes."
+Pupula Duplex,379,"Gives Isaac spectral tears and gives his tears a wide arc shape, increasing their size."
+Pay To Play,380,"+5 Coins . Most doors require one Penny to open instead of a Key . +5 Coins . All locked doors, Locked Chests , and Key Blocks must be opened with one Penny instead of Keys ."
+Eden's Blessing,381,+0.7 tears up. Grants a random item at the start of the next run.
+Lil Gurdy,384,"A Gurdy Jr. familiar that charges up while Isaac is firing, bouncing around the room when released and dealing contact damage based on its speed."
+Bumbo,385,"Spawns a beggar familiar which picks up any nearby coins , leveling up after collecting several coins. At level 2, Bumbo gains a body. At level 3, it begins to fire tears. At level 4, Bumbo follows enemies and gains contact damage."
+Censer,387,Spawns a familiar which creates a circular aura that slows down enemies and enemy shots inside.
+Key Bum,388,"Spawns a familiar that follows Isaac and collects Keys for himself, giving random Chests in return."
+Rune Bag,389,Spawns a familiar that drops a random rune after clearing enough rooms .
+Seraphim,390,Spawns an angel familiar who follows Isaac and fires homing tears which deal 10 damage and have 75% shot speed.
+Betrayal,391,"Charms all enemies in the room when Isaac takes damage. Enemies are able to damage each other. If an enemy is damaged by another enemy, they will attack that enemy instead of Isaac."
+Zodiac,392,Gives Isaac a random zodiac item effect that changes every floor.
+Serpent's Kiss,393,Tears have a chance to apply a poison effect to enemies. Isaac poisons enemies on contact. Poisoned enemies have a chance to drop a Black Heart when killed.
+Marked,394,"Isaac will automatically fire tears directed at a red target on the ground. The target can be moved with tear controls. +0.7 tears , increases range ."
+Tech X,395,Tears are replaced with laser rings that pierce through enemies and deal damage to enemies within them. Can be charged to increase the effectiveness of the ring.
+Tractor Beam,397,"Isaac's tears are bound to a beam emitting in the direction he's firing. +0.5 Tears , +5.25 Range , +0.16 Shot Speed . +1 Fire Rate , +2.5 Range , +0.16 Shot Speed ."
+God's Flesh,398,"Tears have a chance to shrink enemies, making them run away from Isaac. Shrunk enemies can be crushed and killed by walking over them."
+Maw Of The Void,399,Isaac can charge and unleash a black ring that rapidly deals damage around him. The ring can cause enemies to drop Black Hearts . +1 damage .
+Spear Of Destiny,400,"In addition to tears, Isaac holds a spear in front of him which deals contact damage equal to 2× his tear damage , and occasionally inflicts fear ."
+Explosivo,401,Isaac's tears have a chance to stick to enemies and explode.
+Chaos,402,Drops 1-6 random pickups on the floor. Causes items to be chosen from random item pools .
+Spider Mod,403,Displays Isaac's tear damage and enemy health bars. Spawns a familiar that wanders around and inflicts random status effects on enemies it touches. Can spawn a Lil' Battery / Blue spider upon clearing a room .
+Farting Baby,404,"Spawns a familiar that follows Isaac and blocks enemy shots. If a shot hits Farting Baby, it has a chance to fart, which charms , poisons , or knocks back nearby enemies."
+GB Bug,405,"Spawns a familiar that bounces diagonally around the room , applying a random status effect to enemies it hits and has a chance to re-roll pickups it passes over. Spawns a familiar that follows Isaac. Double tapping the fire button launches it forward, causing it to reroll the first monster or pickup it hits."
+Purity,407,"Boosts one of Isaac's stats depending on the color of the aura around him. The aura disappears upon taking damage and reappears with a random color upon entering a new room. Red boosts damage , blue boosts tears , yellow boosts speed , and orange boosts range ."
+Athame,408,"When Isaac takes damage, a damaging black ring briefly appears around him. This ring can cause enemies to drop Black Hearts . After Isaac kills an enemy, adds a luck -based chance to spawn a damaging black ring around them."
+Empty Vessel,409,"Grants two Black Hearts . While Isaac has no red hearts , grants flight and periodically grants an invincibility shield for a few seconds."
+Evil Eye,410,Adds a chance to fire a slow-moving eye that fires tears in the same direction as Isaac. The eye is destroyed when it hits an enemy or obstacle.
+Lusty Blood,411,Isaac's damage increases for the current room each time he kills an enemy.
+Cambion Conception,412,"After taking damage a certain amount of times, a permanent demonic familiar spawns."
+Immaculate Conception,413,"Upon picking up a certain amount of health , spawn a permanent angelic familiar ."
+More Options,414,Two item pedestals are presented in every Treasure Room . Only one can be taken; the other will disappear.
+Crown Of Light,415,"+2 Soul Hearts . While Isaac has no empty red hearts , grants 2x damage , increased range , and -0.3 shot speed . Regardless of health, the crown deactivates for the current room when Isaac takes damage."
+Deep Pockets,416,"Allows Isaac to carry two cards or pills (or a combination of both) at the same time. Increases the coin cap to 999. If a room would otherwise yield no reward, 1-3 coins will spawn."
+Succubus,417,"Spawns a flying familiar that bounces around the room with a black aura, dealing rapid damage to any enemies inside it. While standing in the aura, Isaac gains a 1.5× tear damage multiplier."
+Fruit Cake,418,Isaac's tears gain a random effect that changes every shot.
+Black Powder,420,"Isaac leaves a trail of black powder on the floor. Walking in a circle will spawn a pentagram symbol on the floor, which deals 10 damage per tick to any enemies inside it."
+Circle of Protection,423,"Surrounds Isaac with a large white halo that occasionally deals Isaac's tear damage to enemies inside it, and can convert enemy shots into friendly homing tears ."
+Sack Head,424,"Spawns a Grab Bag on pickup. Coins , Bombs , Keys , cards, runes and batteries have a chance to become Grab Bags ."
+Night Light,425,A cone of light shines in the direction Isaac is moving that slows enemies and enemy shots.
+Obsessed Fan,426,Spawns a familiar that follows Isaac's movements on a delay and deals 30 contact damage per second to enemies.
+PJs,428,Grants 4 Soul Hearts and fully restores Isaac's health .
+Head of the Keeper,429,Isaac's tears become coins. Hitting an enemy has a 5% chance to drop a Penny .
+Papa Fly,430,"Spawns a familiar that follows Isaac's movements on a 3 second delay, firing tears at nearby enemies."
+Multidimensional Baby,431,Spawns a familiar that will follow Isaac's movements on a 2.5-second delay. Tears that pass through the baby will be doubled and increase in speed.
+Glitter Bombs,432,+5 Bombs . Bombs have a chance to drop random pickups or charm enemies when they explode.
+My Shadow,433,Inflicts fear on all enemies in the room upon taking damage and spawns black friendly Chargers that attack enemies. Spawns a shadow familiar that closely follows behind Isaac. It spawns a black friendly Charger whenever an enemy touches it.
+Lil Loki,435,Spawns a Loki familiar that follows Isaac and fires 4 tears in a cross pattern.
+Milk!,436,"Spawns a glass familiar that spills on the floor upon taking damage. After the milk spills, Isaac's tear delay is decreased by 2 for the current room . After the milk spills, Isaac's fire rate is increased by 1 for the current room ."
+Binky,438,"Grants one Soul Heart , +0.75 tears and decreases Isaac's size."
+Kidney Stone,440,"Isaac is occasionally forced to stop firing and charge an attack that launches a massive piercing, spectral kidney stone and a barrage of tears. -0.2 speed , decreases range ."
+Dark Prince's Crown,442,"When at exactly one Red Heart , +0.75 tears , +1.5 range , and +0.2 shot speed . When at exactly one Red Heart , +2 fire rate , +1.5 range , and +0.2 shot speed ."
+Apple!,443,+0.3 tears . Adds a chance to fire a razor blade that deals 4× Isaac's damage .
+Lead Pencil,444,"After every 15 tears fired, Isaac will fire a high-damage cluster of tears."
+Dog Tooth,445,"+0.3 damage , +0.1 speed . Plays a howl or bark sound when entering a room with undiscovered Secret Rooms or Crawl Spaces ."
+Dead Tooth,446,"While firing, Isaac gains a green aura that poisons nearby enemies."
+Linger Bean,447,Constantly shooting causes Isaac to release gas clouds that can be pushed by his tears and damage nearby enemies.
+Shard of Glass,448,"Upon taking damage, Isaac has a chance to drop a full red heart, gain 5 range, and leave a trail of damaging red creep for the current room. Taking damage causes Isaac to bleed, spraying a volley of blood in the direction he fires. Bleeding will eventually damage him, but it can be stopped by picking up a Red Heart ."
+Metal Plate,449,Grants one Soul Heart . Enemy shots have a chance to be reflected at the shooter as confusing tears.
+Eye of Greed,450,"Every 20 tears, Isaac loses 1 Penny and shoots an additional gold tear that petrifies enemies and turns them into gold. Any enemy killed while in this state will drop coins."
+Tarot Cloth,451,Drops a random card or rune . Doubles the effects of most cards and runes. Doubles the effects of tarot cards.
+Varicose Veins,452,Taking damage releases a ring of 10 high damage tears.
+Compound Fracture,453,"Increases Range . Tears turn into bones, which shatter into 1-3 bone shards upon hitting an enemy or obstacle."
+Polydactyly,454,"Allows Isaac to carry two cards , pills , or any combination of both. Spawns one random card, rune , or pill."
+Dad's Lost Coin,455,"+1.5 range , +1 tear falling speed . Drops a Lucky Penny . +2.5 range . Drops a Lucky Penny ."
+Midnight Snack,456,Grants one full Red Heart container . Heals 1 additional Red Heart .
+Cone Head,457,Grants a Soul Heart . Gives Isaac a chance to ignore any damage taken.
+Belly Button,458,Drops a random trinket . Grants a second trinket slot.
+Sinus Infection,459,Adds a chance to fire a booger that sticks to enemies and deals damage over time.
+Glaucoma,460,Adds a chance to shoot tears that confuse enemies for an extremely long time.
+Parasitoid,461,Adds a chance to fire an egg sack which creates slowing creep and spawns a Blue Fly or Blue Spider upon hitting an enemy.
+Eye of Belial,462,"Grants piercing tears . After piercing one enemy, tears start homing and deal double damage ."
+Sulfuric Acid,463,+0.3 damage . Adds a chance to fire acidic tears which can destroy obstacles and open doors.
+Glyph of Balance,464,Grants 2 Soul Hearts and modifies drops from Champion monsters based on certain conditions. Also modifies room clear drops.
+Analog Stick,465,+0.35 tears up. Allows Isaac to fire tears diagonally.
+Contagion,466,"The first enemy killed in a room releases a gas cloud that poisons nearby enemies. Affected enemies will also release gas upon death, spreading the effect."
+Finger!,467,"Spawns a finger familiar that faces in the same direction as Isaac, rapidly damaging enemies it points at for 10% of Isaac's damage."
+Shade,468,"Spawns a shadow familiar that follows Isaac's movements on a 1 second delay and deals contact damage to enemies. After dealing enough damage, it is absorbed by Isaac and spawns friendly Chargers ."
+Depression,469,Spawns a familiar that leaves a trail of creep that damages enemies at 6 damage per second. Has a chance to spawn damaging beams of light onto enemies that touch the cloud.
+Hushy,470,"Spawns a Error: Error: The given entity (""Hush"") does not exist. familiar that bounces diagonally around the room and deals contact damage. While firing tears, it stops moving."
+Lil Monstro,471,Spawns a familiar that fires clusters of tears. Must be charged before shooting.
+King Baby,472,"Spawns a familiar that follows Isaac and makes other familiars follow it. While firing tears, other familiars stop moving."
+Big Chubby,473,"Spawns a familiar that follows Isaac and charges across the room when Isaac fires, blocking shots and dealing 40.5 damage per second on contact."
+Tonsil,474,Grants a familiar that follows Isaac and blocks enemy shots.
+Acid Baby,491,"Spawns a familiar that drops a random pill every 3 rooms . Upon using a pill, all enemies in the room are poisoned ."
+YO LISTEN!,492,"+1 luck . Spawns a fairy familiar that points out Secret Rooms , Crawl Space entrances, and tinted rocks ."
+Adrenaline,493,Increases damage based on how many empty Red Heart containers Isaac has.
+Jacob's Ladder,494,Tears fire sparks of electricity in random directions upon hitting an obstacle or enemy.
+Ghost Pepper,495,Gives a chance to shoot fires alongside tears that block enemy shots and deal damage to enemies that touch them. Gives a chance to shoot blue fires alongside tears that become smaller as they travel.
+Euthanasia,496,"Adds a luck-based chance to fire needles that instantly kill basic enemies and deal triple damage to bosses . If a needle kills an enemy, it bursts into more tears/needles."
+Camo Undies,497,"Isaac becomes camouflaged at the beginning of each room. Until he shoots, all non-boss enemies will be confused . Isaac gains +0.5 Speed while camouflaged, and gains Tears and Damage upon breaking it."
+Duality,498,"Whenever a Devil Room or Angel Room would spawn after defeating a boss, both rooms spawn. Only one can be entered."
+Eucharist,499,"An Angel Room will always spawn after every boss fight, excluding the first floor and floors after Chapter 4."
+Sack of Sacks,500,Spawns a familiar that drops a Grab Bag every 5-6 rooms cleared.
+Greed's Gullet,501,Grants a Red Heart container for every 25 Coins Isaac has.
+Large Zit,502,Adds a chance to fire a creep shot that deals double damage and leaves a trail of slowing white creep .
+Little Horn,503,"Adds a chance to fire a piercing tear that instantly kills any enemy that it touches. Adds a chance to fire a tear that summons Big Horn 's hand to crush the first enemy it hits, instantly killing monsters or greatly damaging bosses."
+Poke Go,505,"Upon entering a room with enemies in it, has a chance to spawn a random friendly enemy that persists across rooms."
+Backstabber,506,Isaac's tears deal double damage and inflict bleeding on enemies if they're facing away from Isaac.
+Mom's Razor,508,"Spawns an orbiting razor that deals contact damage and inflicts bleeding on enemies, causing them to slowly take damage over time."
+Bloodshot Eye,509,"Spawns an orbital familiar that deals contact damage and fires a tear every 2 seconds. Spawns an orbital familiar that deals contact damage, blocks shots, and fires tears at enemies in its line of sight."
+Angry Fly,511,Spawns a fly familiar that orbits around a random enemy and deals 30 damage per second to enemies it comes in contact with.
+Bozo,513,"+0.1 flat damage , grants a Soul Heart . Enemies can randomly become briefly charmed or feared . Taking damage has a chance to spawn a Rainbow Poop ."
+Broken Modem,514,"Enemies, enemy shots, tears, and pickups will briefly freeze in place at random intervals. The reward from clearing a room will sometimes be duplicated."
+Fast Bombs,517,"+7 Bombs . Removes the delay between bomb placements, allowing them to be placed rapidly. Bombs will no longer knock each other away."
+Buddy in a Box,518,Spawns a familiar with a random tear effect. The familiar is randomized at the start of each floor .
+Lil Delirium,519,Grants a familiar that transforms into another random familiar every 10 seconds.
+Jumper Cables,520,Grants an active item charge every 15 enemies killed.
+Technology Zero,524,Connects Isaac's tears with electricity that can damage enemies.
+Leprosy,525,"Taking damage grants a body part orbital that blocks shots and deals contact damage, up to a maximum of three. The body parts are destroyed after blocking enough damage."
+7 Seals,526,Spawns a random Harbinger familiar that changes every 10 seconds. Harbingers have different behaviors and spawn themed Locusts .
+Angelic Prism,528,Spawns an orbital familiar with a large orbital radius. Tears that pass through the prism split into four multi-colored tears.
+Pop!,529,"Replaces Isaac's tears with eyeballs that can bounce off of each other. The eyeballs are not limited by range , and will instead dissipate when they stop moving or when hitting an enemy or obstacle."
+Death's List,530,Grants a pickup or stat upgrade if all enemies in a room are killed in the order they are marked.
+Haemolacria,531,"Tears are now fired in an arc. Upon hitting the floor, an obstacle, or an enemy, they burst into many smaller tears in all directions. Increases tear delay."
+Lachryphagy,532,"Isaac's tears decelerate as they travel. Upon stopping or hitting an obstacle, they burst into 8 tears in all directions. Tears can be fired into other tears to feed them, increasing their damage."
+Trisagion,533,Tears are replaced with piercing white blasts of light that deal less damage but can damage the same enemy multiple times.
+Schoolbag,534,Allows Isaac to hold two active items.
+Blanket,535,"Grants one Soul Heart . Upon entering a boss room, grants a shield that blocks one hit, then disappears."
+Lil Spewer,537,"Drops a random pill , and spawns a familiar that charges up and fires creep . Using pills changes the creep type."
+Marbles,538,"Spawns 3 random trinkets . Taking damage has a 5% chance to swallow Isaac's currently held trinket, gaining its effect permanently."
+Mystery Egg,539,"Spawns an egg familiar , which hatches a random friendly monster when Isaac is hurt once per room. The power of the monster improves for each consecutive room cleared without taking damage."
+Flat Stone,540,"Tears bounce off the floor, creating splashes. Splashes deal 25% of Isaac's tear damage to all enemies in a small area."
+Marrow,541,Grants one Bone Heart and spawns three Red Hearts .
+Slipped Rib,542,Spawns a bone familiar that circles around Isaac and reflects enemy shots.
+Hallowed Ground,543,"Spawns a white poop familiar , which turns into a White Poop when Isaac is hurt. White poop has an aura that increases tear fire rate and can block enemy shots. The aura also increases damage by 20% and gives homing ."
+Pointy Rib,544,"Spawns a bone familiar that hovers back and forth in front of Isaac, dealing damage equal to Isaac's damage ."
+Dad's Ring,546,Creates a ring of light around Isaac that petrifies enemies in contact.
+Divorce Papers,547,"Grants one Bone Heart , +0.7 tears , spawns a Mysterious Paper ."
+Jaw Bone,548,"Spawns a familiar that flies through the room while firing, dealing a flat 7 contact damage to enemies and retrieving pickups ."
+Brittle Bones,549,"Replaces all Red Heart Containers with 6 empty Bone Hearts . Upon losing a Bone Heart, Isaac fires bones in 8 directions and permanently gains a tears up. Upon losing a Bone Heart, Isaac fires bones in 8 directions and permanently gains a fire rate up."
+Broken Shovel,551,One of two parts necessary to create Mom's Shovel . No effect if somehow obtained on its own.
+Mucormycosis,553,"Gives Isaac the chance to fire spore tears that stick to enemies and blow up after a few seconds, dealing damage and poisoning nearby enemies and releasing more spores."
+2Spooky,554,Enemies near Isaac are afflicted with fear .
+Eye Sore,558,Causes Isaac to occasionally fire extra tears in random directions while shooting.
+120 Volt,559,Repeatedly zaps enemies that are close to Isaac.
+It Hurts,560,Releases a ring of tears and increases fire rate for the current room when Isaac takes damage.
+Almond Milk,561,"Quadruples fire rate , with ×0.3 damage multiplier. Each tear is given a random effect that alters its movement."
+Rock Bottom,562,Locks Isaac's attributes to their highest values reached.
+Nancy Bombs,563,+5 Bombs . Each bomb gains 1-4 random bomb synergies.
+A Bar of Soap,564,"+0.5 Tears , +0.2 Shot Speed ."
+Blood Puppy,565,"Spawns a familiar that chases enemies. After killing enough enemies, it becomes more powerful but will also try to hurt Isaac, it will also generate Half Red Hearts on enemy kills. It can increase in power one more stage after killing even more enemies. Dealing enough damage to it returns it to normal."
+Dream Catcher,566,"During the transition between floors, Isaac's nightmare shows the contents of the  upcoming floor's Treasure Room , as well as the floor's boss . Grants a Half Soul Heart when entering a new floor."
+Paschal Candle,567,Gives Isaac a familiar that grants +0.4 Fire Rate for each consecutive room he's cleared without taking damage. The bonus stacks up to five times.
+Divine Intervention,568,Double tapping a fire key creates a shield that pushes away enemies and reflects enemy projectiles and lasers.
+Blood Oath,569,"Stabs Isaac at the beginning of each floor, draining his Red Hearts . Increases damage and speed for the floor based on the amount drained."
+Playdough Cookie,570,Grants multicolored tears. Each color comes with a different status or tear effect.
+Orphan Socks,571,Prevents creep and floor spikes from damaging Isaac. Also gives Isaac +0.3 speed and 2 Soul Hearts .
+Eye of the Occult,572,"+1 damage , +2 range , -0.16 shot speed . Isaac's tears can be controlled mid-flight with tear controls."
+Immaculate Heart,573,Adds one Red Heart Container and fully restores health. x1.2 damage multiplier. Isaac will occasionally fire extra tears that orbit around him.
+Monstrance,574,Isaac gains an aura that deals damage to enemies inside it.
+The Intruder,575,"A familiar burrows in Isaac's head, firing 4 slowing tears. Upon taking damage, there's a chance it will burst out of Isaac's head, spawning blue spiders and chasing enemies for the current room."
+Dirty Mind,576,Destroying poop spawns Dip Familiars that follow Isaac and damage enemies. Destroying different types of poop spawns different Dips with special effects.
+Spirit Sword,579,"Instead of tears, Isaac swings a sword. Charging does a spin attack and fires a projectile, and a projectile is sometimes fired with normal swings if Isaac has no empty Red Heart Containers ."
+Psy Fly,581,Spawns a fly orbital familiar that seeks out incoming enemy shots and destroys them.
+Rocket in a Jar,583,"+5 Bombs . If Isaac is currently firing, placing a bomb will instead shoot a fast-moving, explosive rocket in the direction he's facing."
+The Stairway,586,Generates a ladder at the start of every floor that leads to a unique Angel Room shop.
+Sol,588,"Reveals the location of the Boss Room . Upon defeating a boss, activates XIX - The Sun , fully recharges Isaac's active item, grants bonus damage and luck for the rest of the floor, and removes curses ."
+Luna,589,Adds an extra Secret Room and Super Secret Room to each floor. Secret Rooms contain a beam of light that increases Fire Rate for the current floor and gives a Half Soul Heart .
+Mercurius,590,"+0.4 speed . Doors stay open after entering a room, even in rooms with enemies."
+Venus,591,Adds one red Heart container . Heals 1 additional Red Heart . Enemies near Isaac become charmed .
+Terra,592,"+1 Damage . Replaces tears with rocks that deal variable damage, have increased knockback , and can destroy obstacles ."
+Mars,593,"Dash by double-tapping the movement key, becoming invulnerable and damaging enemies. There's a short cooldown before Isaac can dash again."
+Jupiter,594,"+2 red Heart containers , -0.3 speed . Isaac builds speed while standing still, and releases poison gas clouds when he moves afterwards."
+Saturnus,595,"Upon entering a room, a circle of tears orbits Isaac. Enemy tears have a chance to be caught in orbit, turning them friendly."
+Uranus,596,"Isaac shoots ice tears, which slow enemies and freeze monsters they kill. Frozen enemies slide away and explode into ice shards when touched."
+Neptunus,597,"Isaac's mouth fills with tears over time while not firing, up to a cap. Holding the fire button will release all stored tears in rapid succession."
+Pluto,598,"+0.7 tears . Significantly shrinks Isaac, allowing him to squeeze between objects and makes some enemy shots pass over him."
+Voodoo Head,599,Spawns an additional Curse Room on each floor. Curse Rooms have improved layouts.
+Eye Drops,600,"Increases the fire rate in Isaac's left eye, causing his eyes to fire at different rates."
+Act of Contrition,601,"+0.7 tears , grants an Eternal Heart . Allows Angel Rooms to appear even if a Devil Deal has been taken before. Reduces the Devil/Angel room chance penalty for taking Red heart damage."
+Member Card,602,Adds a trapdoor to every Shop that leads to a second shop with a unique stock and marked-up prices.
+Battery Pack,603,Recharges Isaac's currently held active item and drops 2-4 batteries.
+Ocular Rift,606,"Adds a chance to fire tears that create rifts where they land, which suck enemies, pickups , and shots towards them and damage enemies in the area."
+Boiled Baby,607,Gives Isaac a familiar that fires chaotic bursts of tears in all directions.
+Freezer Baby,608,"Spawns a shooting familiar that has a chance to petrify enemies, and freezes monsters upon killing them."
+Bird Cage,610,"The first time Isaac takes damage in a room, a familiar leaps on an enemy, dealing damage and releasing a rock wave. For the rest of the room, it chases enemies similar to Dead Bird ."
+Lost Soul,612,"Creates a ghostly familiar that closely follows behind Isaac. It dies in one hit, but respawns at the start of the next floor. Each time it survives until the next floor, it rewards Isaac with Soul Hearts , Eternal Hearts , or an Item ."
+Blood Bombs,614,Grants a Red Heart container and restores 5 hearts. Bombs leave behind damaging red creep . Isaac can place Bombs at the cost of half a heart if he doesn't have any.
+Lil Dumpy,615,"Spawns a Dumpy familiar that pushes away nearby enemies and projectiles just before Isaac is about to be hit, then falls asleep. He can be awoken by walking to him."
+Bird's Eye,616,Gives a chance to shoot fires alongside tears that block enemy shots and deal damage to enemies that touch them.
+Lodestone,617,"Gives Isaac the chance to fire tears that magnetize enemies they hit, causing them to attract nearby pickups and enemies, as well as tears/shots from all sources."
+Rotten Tomato,618,Adds a chance to fire tears that mark enemies with the Bait status effect. Enemies marked as bait are attacked by other enemies.
+Birthright,619,Grants a character -specific effect that enhances their special abilities.
+Red Stew,621,Refills all heart containers . Grants an enormous damage boost that wears off over time.
+Booster Pack,624,Drops 5 random cards .
+Knife Piece 1,626,"Combined with Knife Piece 2 , creates a knife familiar that damages enemies and can open the door to the Corpse ."
+Knife Piece 2,627,"Combined with Knife Piece 1 , creates a knife familiar that damages enemies and can open the door to the Corpse ."
+Bot Fly,629,Spawns an orbiting fly familiar that fires shielded tears at incoming enemy projectiles.
+Evil Charm,632,"+2 luck . Provides immunity to burn , confusion , fear , and poison ."
+Dogma,633,"Grants flight , +2 damage , and increases speed to 1.1. Grants enough health to have 6 full hearts, if possible. Grants the Holy Mantle effect for the room it was obtained in. Automatically given to Isaac after defeating Dogma ."
+Purgatory,634,"While in a room with enemies, spawns red cracks in the ground. Walking over these cracks summons ghosts that launch themselves at enemies and explode."
+Knockout Drops,637,Adds a chance to shoot a fist tear that has extremely high knockback and confuses enemies.
+Akeldama,641,"While in an uncleared room, Isaac forms a trail of bloody tears that drags behind him, bursting and dealing damage upon contact with enemies."
+Revelation,643,"Grants flight and two Soul Hearts . In addition to tears, Isaac can charge up and fire a powerful holy laser."
+Consolation Prize,644,"Increases Isaac's lowest stat and drops either 3 Coins , 1 Bomb , or 1 Key depending on what Isaac has the least of."
+Tinytoma,645,"Gives Isaac a Teratoma orbital that blocks shots, deals contact damage, and splits into smaller versions of itself upon taking damage. The smaller versions break into blue spiders ."
+Brimstone Bombs,646,+5 Bombs . Bombs fire four Brimstone lasers in the cardinal directions upon exploding.
+4.5 Volt,647,"Active items don't charge when clearing rooms. Instead, they're charged by dealing damage to enemies."
+Fruity Plum,649,"Gives Isaac a miniature Baby Plum familiar that propels itself diagonally around the room, firing tears behind itself as it travels."
+Star of Bethlehem,651,"Spawns a star familiar that slowly travels towards the Boss Room , giving an aura that increases damage and tears and grants homing tears ."
+Cube Baby,652,"Spawns an ice cube familiar that slides around when walked into. It slows and deals contact damage, freezing monsters it kills."
+False PHD,654,Converts good pills into bad pills and identifies all pills. Bad pills now have secondary positive effects. Grants one Black Heart .
+Vasculitis,657,"Enemies explode into tears upon death, which inherit the effects of Isaac's tears."
+Giant Cell,658,"Causes Isaac to spawn Minisaac familiars when he takes damage, which chase and shoot at nearby enemies."
+Tropicamide,659,"+2.5 Range , Increases tear size."
+Card Reading,660,"Spawns two portals at the beginning of each floor that each lead to either the Boss Room , Treasure Room , Secret Room , or the Shop ."
+Quints,661,The first five enemies killed in a room will spawn stationary shooting familiars where they died.
+Tooth and Nail,663,"Isaac periodically turns into a spiked statue, briefly becoming invulnerable and dealing contact damage."
+Binge Eater,664,+1 Red Heart Container and fully heals Isaac. Item pedestals also offer a random food item. Picking up a food item temporarily grants +3.6 damage and permanently boosts 2 stats .
+Guppy's Eye,665,"Shows the contents of Chests , Fire Places , Grab Bags , and Shopkeepers before they're opened/destroyed."
+Strawman,667,"Spawns a controllable Keeper to fight enemies alongside Isaac, functioning similarly to Jacob and Esau . If Keeper dies, he spawns 5 blue spiders and Strawman is removed from Isaac's inventory."
+Dad's Note,668,Sends Isaac on an Ascent toward Home .
+Sausage,669,"Adds a Red Heart Container , fully heals Isaac, and gives +0.2 Speed , +0.5 Damage , +0.5 Tears , +2.5 Range , +0.2 Shot Speed , and +1.0 Luck . Increases the chance of encountering a Devil Room , Angel Room , and/or Planetarium each by 6.9%."
+Options?,670,"If a room gives a reward when cleared, there will be two different rewards to chose from. Taking one causes the other to disappear."
+Candy Heart,671,Gives Isaac a permanent stat boost whenever he heals with Red Heart pickups.
+A Pound of Flesh,672,"Devil deals now cost Coins , Shop items now cost health , and consumables in shops are free but surrounded by spikes."
+Redemption,673,"If Isaac enters a Devil Room but leaves without taking/opening anything in it, he gets +1 Damage and a Soul Heart at the start of the next floor."
+Spirit Shackles,674,"On death , Isaac's ghost is chained to his dead body and he can continue to fight with 1/2 of a heart, returning to life after 10 seconds. After it activates, it must be recharged by picking up a Soul Heart ."
+Cracked Orb,675,Unlocks doors and reveals a random room on the map when Isaac takes damage.
+Empty Heart,676,"If Isaac has one red heart or fewer at the beginning of a floor, he gains an empty red heart container ."
+Astral Projection,677,"Causes Isaac to turn into a ghost if he gets hit while in an uncleared room, giving him flight and spectral tears and blocking the next hit he takes."
+C Section,678,Replaces tears with fetuses that chase down enemies and deal contact damage. Each shot requires a brief charge up.
+Lil Abaddon,679,Spawns a familiar that charges a miniature Maw Of The Void attack while Isaac shoots.
+Montezuma's Revenge,680,"While firing, Isaac charges up a short-ranged Brimstone -like diarrhea beam that shoots behind him."
+Lil Portal,681,"A familiar that flies forward, consuming pickups in its path. Each one will increase its size and damage and spawn a Blue Fly . Every four pickups, it opens a portal that leads to an unexplored room."
+Worm Friend,682,Gives Isaac a Nerve Ending familiar that burrows out of the ground to grab and deal damage to enemies over time.
+Bone Spurs,683,"Enemies spawn floating bones on death, which block shots and damage/repel enemies that touch them."
+Hungry Soul,684,"Enemies have a chance to spawn ghosts on death, which chase and deal contact damage to enemies and explode after a short time."
+Soul Locket,686,Gives Isaac a permanent stat boost whenever he picks up a Soul Heart .
+Inner Child,688,"Upon death , Isaac respawns in the current room with half of a Red Heart , a massive size down, and +0.2 Speed ."
+Glitched Crown,689,Item pedestals cycle between 5 random items before being picked up.
+Belly Jelly,690,"Causes enemies to bounce off of Isaac, dealing damage to them if they hit an enemy or obstacle. Also gives Isaac the chance to deflect enemy shots."
+Sacred Orb,691,"Prevents items of quality 0-1 from appearing, and items of quality 2 from appearing 33% of the time. Quest items are unaffected."
+Sanguine Bond,692,Spawns a special set of spikes in the Devil Room . Taking damage from the spikes has a chance to grant a reward.
+The Swarm,693,"Spawns eight orbital flies, which turn into Blue Flies after they block a shot. Each time a room is cleared, spawns another orbital fly."
+Heartbreak,694,Grants 3 broken hearts and +0.25 damage for every broken heart Isaac has. Every otherwise fatal hit will add 2 more until Isaac has nothing but broken hearts.
+Bloody Gust,695,"The first 6 times Isaac takes damage on a given floor, he gains Speed and Fire Rate for the rest of the floor, up to a maximum of +1.02 and +3.00, respectively."
+Salvation,696,Gives Isaac a halo that summons beams of light on enemies inside it. The halo grows larger the more times Isaac has taken damage this floor.
+Vanishing Twin,697,Spawns a familiar that becomes a weaker clone of the floor's boss when entering the Boss Room . Defeating it drops an extra item .
+Twisted Pair,698,"Spawns two familiars that float on either side of Isaac and fire tears that use his tears , range , shot speed , and tear effects , and scale with damage ."
+Azazel's Rage,699,"Isaac builds rage every time a room is cleared. After four rooms, fires a large Brimstone laser when entering the next room."
+Echo Chamber,700,"When Isaac uses a Card , Pill , or Rune , he also uses a copy of the previous three Cards/Pills/Runes he used after picking up Echo Chamber."
+Isaac's Tomb,701,Spawns an Old Chest at the start of each floor.
+Vengeful Spirit,702,"After taking damage, spawns an orbital wisp that lasts for the entire floor, up to a maximum of six. They fire tears but do not block shots."
+Supper,707,Grants one full Red Heart container . Heals 1 additional Red Heart .
+Stapler,708,"+1 Damage . Prevents Isaac from firing tears from his left eye, like Cain ."
+Keeper's Sack,716,"Gives range , speed , or damage when buying things from a shop. Also spawns three coins and a Key on pickup."
+Keeper's Kin,717,"Rocks and other Obstacles spawn blue spiders over time while in a room with enemies, and spawn two blue spiders when destroyed."
+TMTRAINER,721,"Causes all future items to be ""glitched"", granting them completely random effects."
+Hypercoagulation,724,"After Isaac takes damage from an enemy or donates health, launches Red Hearts from Isaac that despawn after 1.5 seconds."
+IBS,725,"Causes Isaac to throw poop, create buffing creep , or drop bombs while fighting enemies."
+Hemoptysis,726,"Double-tapping a fire button causes Isaac to sneeze blood, dealing damage to enemies in front of him. Affected enemies are cursed and take more damage from Brimstone -like attacks."
+Ghost Bombs,727,+5 Bombs . Bombs become spectral and spawn ghosts that deal contact damage to enemies and explode after 10 seconds.
+Glass Eye,730,"+0.75 damage , +1 luck ."
+Stye,731,"Tears fired from Isaac's right eye have +28% Damage , +6.5 Range , and -0.3 Shot Speed ."
+Mom's Ring,732,+1 Damage . Drops a random Rune or Soul Stone upon pickup.
