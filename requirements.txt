@@ -5,3 +5,7 @@ joblib>=1.0
 matplotlib>=3.4
 seaborn>=0.11
 streamlit>=1.0
+supabase>=1.0
+python-dotenv>=0.21
+sqlalchemy>=1.4
+psycopg2-binary>=2.9
