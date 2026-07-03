@@ -5,6 +5,7 @@ import matplotlib
 import matplotlib.pyplot as plt
 import seaborn as sns
 from ui_theme import apply_isaac_theme, section, load_scores
+from src.db import fetch_all
 
 matplotlib.rcParams.update({
     "figure.facecolor": "#141010",
@@ -208,3 +209,4 @@ with tab_custom:
     st.markdown("---")
     with st.expander("Afficher les données brutes"):
         st.dataframe(df, use_container_width=True, hide_index=True)
+
