@@ -2,8 +2,8 @@
 
 SCORING_CONFIG = {
     # Performance générale
-    "victory":              {"weight": 25.0, "direction": +1},
-    "nb_stages":            {"weight": 8.0,  "direction": +1},
+    # Le statut de victoire n'est pas pris en compte dans le scoring.
+    "nb_stages":            {"weight": 25.0,  "direction": +1},
     "clear_rate":           {"weight": 6.0,  "direction": +1},
 
     # Combat & stats

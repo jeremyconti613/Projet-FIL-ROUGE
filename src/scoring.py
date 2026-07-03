@@ -13,6 +13,7 @@ def compute_scores(df_features: pd.DataFrame, config: dict) -> pd.DataFrame:
     à partir des features et de la configuration de pondération.
     """
     df        = df_features.copy()
+    config    = {c: cfg for c, cfg in config.items() if c != "victory"}
     available = [c for c in config.keys() if c in df.columns]
     missing   = [c for c in config.keys() if c not in df.columns]
 
