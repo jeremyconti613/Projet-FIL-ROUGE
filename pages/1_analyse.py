@@ -41,11 +41,10 @@ if df is None:
     st.stop()
 
 # ── Métriques ──────────────────────────────────────────────────────────────────
-cols = st.columns(4)
+cols = st.columns(3)
 cols[0].metric("Runs", f"{len(df):,}")
 cols[1].metric("Score moyen", f"{df['score'].mean():.1f}")
-cols[2].metric("Victoires", f"{int(df['victory'].sum())} / {len(df)}")
-cols[3].metric("Étage max atteint", f"{int(df['nb_stages'].max())}")
+cols[2].metric("Étage max atteint", f"{int(df['nb_stages'].max())}")
 
 st.markdown("---")
 
@@ -107,56 +106,32 @@ with tab_stages:
 
     from ui_theme import FLOOR_NAMES
 
-    c1, c2 = st.columns(2)
+    fig, ax = plt.subplots(figsize=(10, 4))
+    stage_counts = df["nb_stages"].value_counts().sort_index()
+    bars = ax.bar(
+        [FLOOR_NAMES.get(s, str(s)) for s in stage_counts.index],
+        stage_counts.values,
+        color="#b51919", edgecolor="#5c0a0a", alpha=0.85,
+    )
+    ax.set_xlabel("Étage final atteint")
+    ax.set_ylabel("Nombre de runs")
+    ax.set_title("Distribution des étages finals")
+    plt.xticks(rotation=35, ha="right", fontsize=8)
+    for bar, val in zip(bars, stage_counts.values):
+        ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 0.05,
+                int(val), ha="center", va="bottom", color="#e8dcc8", fontsize=9)
+    st.pyplot(fig, use_container_width=True)
+    plt.close()
 
-    with c1:
-        fig, ax = plt.subplots(figsize=(7, 4))
-        stage_counts = df["nb_stages"].value_counts().sort_index()
-        bars = ax.bar(
-            [FLOOR_NAMES.get(s, str(s)) for s in stage_counts.index],
-            stage_counts.values,
-            color="#b51919", edgecolor="#5c0a0a", alpha=0.85,
-        )
-        ax.set_xlabel("Étage final atteint")
-        ax.set_ylabel("Nombre de runs")
-        ax.set_title("Distribution des étages finals")
-        plt.xticks(rotation=35, ha="right", fontsize=8)
-        for bar, val in zip(bars, stage_counts.values):
-            ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 0.05,
-                    int(val), ha="center", va="bottom", color="#e8dcc8", fontsize=9)
-        st.pyplot(fig, use_container_width=True)
-        plt.close()
 
-    with c2:
-        fig, ax = plt.subplots(figsize=(7, 4))
-        # Taux de victoire cumulatif par étage atteint
-        stage_win = (
-            df.groupby("nb_stages")["victory"]
-            .agg(["sum", "count"])
-            .rename(columns={"sum": "victoires", "count": "total"})
-        )
-        stage_win["taux"] = stage_win["victoires"] / stage_win["total"] * 100
-        ax.bar(
-            [FLOOR_NAMES.get(s, str(s)) for s in stage_win.index],
-            stage_win["taux"],
-            color="#8c1a1a", edgecolor="#5c0a0a", alpha=0.85,
-        )
-        ax.set_xlabel("Étage final atteint")
-        ax.set_ylabel("Taux de victoire (%)")
-        ax.set_title("Taux de victoire par étage final")
-        ax.set_ylim(0, 110)
-        plt.xticks(rotation=35, ha="right", fontsize=8)
-        st.pyplot(fig, use_container_width=True)
-        plt.close()
 
     # Scatter nb_stages vs score
     fig, ax = plt.subplots(figsize=(10, 4))
-    victory_colors = df["victory"].map({1: "#b51919", 0: "#4a3a35"})
-    ax.scatter(df["nb_stages"], df["score"], c=victory_colors, alpha=0.8,
+    ax.scatter(df["nb_stages"], df["score"], c="#b51919", alpha=0.8,
                edgecolors="#5c0a0a", s=80)
     ax.set_xlabel("Étages atteints (nb_stages)")
     ax.set_ylabel("Score")
-    ax.set_title("Étages atteints vs Score  (🔴 Victoire  ⚫ Défaite)")
+    ax.set_title("Étages atteints vs Score")
     # Ligne de tendance
     z = np.polyfit(df["nb_stages"], df["score"], 1)
     p = np.poly1d(z)
@@ -176,7 +151,7 @@ with tab_corr:
     corr_cols = [c for c in numeric_cols if c not in exclude]
 
     default_cols = [
-        "score", "nb_stages", "victory", "clear_rate", "dps_proxy",
+        "score", "nb_stages", "clear_rate", "dps_proxy",
         "total_damage_taken", "nb_passive_items", "avg_passive_quality",
     ]
     default_cols = [c for c in default_cols if c in corr_cols]
@@ -213,22 +188,14 @@ with tab_custom:
                          index=numeric_cols_clean.index("nb_stages") if "nb_stages" in numeric_cols_clean else 0)
     col_b = st.selectbox("Axe Y", numeric_cols_clean,
                          index=numeric_cols_clean.index("score") if "score" in numeric_cols_clean else 1)
-    color_by_victory = st.toggle("Colorier par victoire", value=True)
 
     if col_a != col_b:
         fig, ax = plt.subplots(figsize=(9, 5))
-        colors = (
-            df["victory"].map({1: "#b51919", 0: "#4a3a35"})
-            if color_by_victory
-            else "#b51919"
-        )
-        ax.scatter(df[col_a], df[col_b], c=colors, alpha=0.8,
+        ax.scatter(df[col_a], df[col_b], c="#b51919", alpha=0.8,
                    edgecolors="#5c0a0a", s=80)
         ax.set_xlabel(col_a)
         ax.set_ylabel(col_b)
         title = f"{col_b} vs {col_a}"
-        if color_by_victory:
-            title += "  (🔴 Victoire  ⚫ Défaite)"
         ax.set_title(title)
         st.pyplot(fig, use_container_width=True)
         plt.close()

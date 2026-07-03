@@ -34,12 +34,11 @@ if df is None:
 section("Vue d'ensemble", "📊")
 
 best_run = df.loc[df["score"].idxmax()]
-cols = st.columns(5)
+cols = st.columns(4)
 cols[0].metric("Runs analysées", f"{len(df):,}")
-cols[1].metric("Taux de victoire", f"{df['victory'].mean() * 100:.1f}%")
-cols[2].metric("Score moyen", f"{df['score'].mean():.1f} / 100")
-cols[3].metric("Étage moyen atteint", f"{df['nb_stages'].mean():.1f}")
-cols[4].metric(
+cols[1].metric("Score moyen", f"{df['score'].mean():.1f} / 100")
+cols[2].metric("Étage moyen atteint", f"{df['nb_stages'].mean():.1f}")
+cols[3].metric(
     "Meilleure run",
     f"#{int(best_run['run_id'])} — {best_run['score']:.1f}",
     delta=f"Grade {best_run['grade']}",
@@ -55,7 +54,7 @@ top_cols = st.columns([2, 1])
 with top_cols[0]:
     top_n = st.slider("Nombre de runs à afficher", min_value=5, max_value=len(df), value=10, step=5)
     top_df = (
-        df[["run_id", "score", "grade", "nb_stages", "victory",
+        df[["run_id", "score", "grade", "nb_stages",
             "clear_rate", "dps_proxy", "cluster_label", "anomaly_label"]]
         .sort_values("score", ascending=False)
         .head(top_n)
@@ -64,14 +63,12 @@ with top_cols[0]:
             "score": "Score",
             "grade": "Grade",
             "nb_stages": "Étages",
-            "victory": "Victoire",
             "clear_rate": "Clear rate",
             "dps_proxy": "DPS proxy",
             "cluster_label": "Profil",
             "anomaly_label": "Statut",
         })
     )
-    top_df["Victoire"] = top_df["Victoire"].map({1: "✅", 0: "❌"})
     top_df["Clear rate"] = (top_df["Clear rate"] * 100).round(1).astype(str) + "%"
     top_df["DPS proxy"] = top_df["DPS proxy"].round(2)
     st.dataframe(top_df, use_container_width=True, hide_index=True)
@@ -103,11 +100,10 @@ run_id_input = st.selectbox(
 row = df[df["run_id"] == run_id_input]
 if not row.empty:
     r = row.iloc[0]
-    d1, d2, d3, d4 = st.columns(4)
+    d1, d2, d3 = st.columns(3)
     d1.metric("Score", f"{r['score']:.1f}")
     d2.metric("Grade", str(r["grade"]))
     d3.metric("Étages atteints", int(r["nb_stages"]))
-    d4.metric("Victoire", "✅" if r["victory"] else "❌")
 
     d5, d6, d7, d8 = st.columns(4)
     d5.metric("Profil", str(r["cluster_label"]))

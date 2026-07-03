@@ -164,12 +164,11 @@ if predict_btn:
         st.markdown("---")
         section("Statistiques de la run", "📊")
 
-        d1, d2, d3, d4, d5 = st.columns(5)
+        d1, d2, d3, d4 = st.columns(4)
         d1.metric("Score", f"{result['score']:.1f}")
         d2.metric("Grade", result["grade"])
         d3.metric("Étages réels", result["actual_nb_stages"])
-        d4.metric("Victoire", "✅" if result["victory"] else "❌")
-        d5.metric("Profil", result["cluster_label"])
+        d4.metric("Profil", result["cluster_label"])
 
         # Comparaison prédit vs réel
         actual = result["actual_nb_stages"]
